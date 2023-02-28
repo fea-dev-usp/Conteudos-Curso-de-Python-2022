@@ -1,0 +1,2393 @@
+year,investor_name,investor,issuer_nationality_name,issuer_nationality,portfolio_share
+2017,"Australia","AUS","Argentina","ARG",.0098042
+2017,"Australia","AUS","Australia","AUS",.2781692
+2017,"Australia","AUS","Brazil","BRA",.0110278
+2017,"Australia","AUS","Canada","CAN",.0421832
+2017,"Australia","AUS","European Monetary Union","EMU",.1405631
+2017,"Australia","AUS","France","FRA",.0285337
+2017,"Australia","AUS","Germany","DEU",.0169298
+2017,"Australia","AUS","Indonesia","IDN",.008194
+2017,"Australia","AUS","Italy","ITA",.0452446
+2017,"Australia","AUS","Japan","JPN",.0726544
+2017,"Australia","AUS","Korea, Republic of","KOR",.0080814
+2017,"Australia","AUS","Mexico","MEX",.0236461
+2017,"Australia","AUS","Netherlands","NLD",.0072722
+2017,"Australia","AUS","Poland","POL",.0213313
+2017,"Australia","AUS","Spain","ESP",.0174754
+2017,"Australia","AUS","Sweden","SWE",.008922
+2017,"Australia","AUS","United Kingdom","GBR",.0309173
+2017,"Australia","AUS","United States","USA",.271051
+2017,"Canada","CAN","Argentina","ARG",.0027861
+2017,"Canada","CAN","Australia","AUS",.0068892
+2017,"Canada","CAN","Brazil","BRA",.0038168
+2017,"Canada","CAN","Canada","CAN",.8237334
+2017,"Canada","CAN","Colombia","COL",.0018348
+2017,"Canada","CAN","European Monetary Union","EMU",.0227876
+2017,"Canada","CAN","France","FRA",.003528
+2017,"Canada","CAN","Germany","DEU",.0040701
+2017,"Canada","CAN","Indonesia","IDN",.0043993
+2017,"Canada","CAN","Italy","ITA",.005934
+2017,"Canada","CAN","Japan","JPN",.0071498
+2017,"Canada","CAN","Mexico","MEX",.007979
+2017,"Canada","CAN","New Zealand","NZL",.0030851
+2017,"Canada","CAN","Philippines","PHL",.0017867
+2017,"Canada","CAN","Poland","POL",.0018931
+2017,"Canada","CAN","Spain","ESP",.0044292
+2017,"Canada","CAN","Turkey","TUR",.0020813
+2017,"Canada","CAN","United Kingdom","GBR",.004716
+2017,"Canada","CAN","United States","USA",.0766124
+2017,"Denmark","DNK","Argentina","ARG",.0268082
+2017,"Denmark","DNK","Brazil","BRA",.0431256
+2017,"Denmark","DNK","Colombia","COL",.0291717
+2017,"Denmark","DNK","Denmark","DNK",.3005931
+2017,"Denmark","DNK","Dominican Republic","DOM",.0125967
+2017,"Denmark","DNK","European Monetary Union","EMU",.0624175
+2017,"Denmark","DNK","Germany","DEU",.0180206
+2017,"Denmark","DNK","Hungary","HUN",.0129987
+2017,"Denmark","DNK","Indonesia","IDN",.0327951
+2017,"Denmark","DNK","Italy","ITA",.0244419
+2017,"Denmark","DNK","Malaysia","MYS",.0231236
+2017,"Denmark","DNK","Mexico","MEX",.0414267
+2017,"Denmark","DNK","Peru","PER",.0161138
+2017,"Denmark","DNK","Poland","POL",.0280672
+2017,"Denmark","DNK","Russian Federation","RUS",.0332862
+2017,"Denmark","DNK","South Africa","ZAF",.0337264
+2017,"Denmark","DNK","Spain","ESP",.007496
+2017,"Denmark","DNK","Thailand","THA",.0097932
+2017,"Denmark","DNK","Turkey","TUR",.0414749
+2017,"Denmark","DNK","Ukraine","UKR",.0114919
+2017,"Denmark","DNK","United Kingdom","GBR",.0099429
+2017,"Denmark","DNK","United States","USA",.0741355
+2017,"Denmark","DNK","Uruguay","URY",.0076713
+2017,"European Monetary Union","EMU","Argentina","ARG",.0144752
+2017,"European Monetary Union","EMU","Australia","AUS",.0058492
+2017,"European Monetary Union","EMU","Austria","AUT",.0076308
+2017,"European Monetary Union","EMU","Belgium","BEL",.0107991
+2017,"European Monetary Union","EMU","Brazil","BRA",.0147404
+2017,"European Monetary Union","EMU","Canada","CAN",.0073763
+2017,"European Monetary Union","EMU","Colombia","COL",.0083097
+2017,"European Monetary Union","EMU","Cyprus","CYP",.0005927
+2017,"European Monetary Union","EMU","European Monetary Union","EMU",.4356146
+2017,"European Monetary Union","EMU","Finland","FIN",.00276
+2017,"European Monetary Union","EMU","France","FRA",.0551733
+2017,"European Monetary Union","EMU","Germany","DEU",.068294
+2017,"European Monetary Union","EMU","Greece","GRC",.0045179
+2017,"European Monetary Union","EMU","Indonesia","IDN",.017086
+2017,"European Monetary Union","EMU","Ireland","IRL",.0055764
+2017,"European Monetary Union","EMU","Italy","ITA",.1672411
+2017,"European Monetary Union","EMU","Japan","JPN",.0234233
+2017,"European Monetary Union","EMU","Latvia","LVA",.0003778
+2017,"European Monetary Union","EMU","Lithuania","LTU",.0006678
+2017,"European Monetary Union","EMU","Luxembourg","LUX",.000216
+2017,"European Monetary Union","EMU","Malaysia","MYS",.0067883
+2017,"European Monetary Union","EMU","Malta","MLT",.0000106
+2017,"European Monetary Union","EMU","Mexico","MEX",.0201762
+2017,"European Monetary Union","EMU","Netherlands","NLD",.0114163
+2017,"European Monetary Union","EMU","Poland","POL",.0111524
+2017,"European Monetary Union","EMU","Portugal","PRT",.011316
+2017,"European Monetary Union","EMU","Russian Federation","RUS",.0120597
+2017,"European Monetary Union","EMU","Slovakia","SVK",.0008773
+2017,"European Monetary Union","EMU","Slovenia","SVN",.0013796
+2017,"European Monetary Union","EMU","South Africa","ZAF",.0127916
+2017,"European Monetary Union","EMU","Spain","ESP",.0867679
+2017,"European Monetary Union","EMU","Sweden","SWE",.0083953
+2017,"European Monetary Union","EMU","Turkey","TUR",.0146223
+2017,"European Monetary Union","EMU","United Kingdom","GBR",.0435481
+2017,"European Monetary Union","EMU","United States","USA",.2337678
+2017,"Norway","NOR","Austria","AUT",.0017095
+2017,"Norway","NOR","Belgium","BEL",.0050646
+2017,"Norway","NOR","Canada","CAN",.0048913
+2017,"Norway","NOR","Dominican Republic","DOM",.0036499
+2017,"Norway","NOR","European Monetary Union","EMU",.0601546
+2017,"Norway","NOR","Finland","FIN",.0019731
+2017,"Norway","NOR","France","FRA",.0075022
+2017,"Norway","NOR","Germany","DEU",.013272
+2017,"Norway","NOR","Greece","GRC",.002279
+2017,"Norway","NOR","Iceland","ISL",.0019887
+2017,"Norway","NOR","Ireland","IRL",.0017213
+2017,"Norway","NOR","Italy","ITA",.0102916
+2017,"Norway","NOR","Japan","JPN",.0172831
+2017,"Norway","NOR","Mexico","MEX",.0051875
+2017,"Norway","NOR","Norway","NOR",.8307669
+2017,"Norway","NOR","Portugal","PRT",.0048282
+2017,"Norway","NOR","Spain","ESP",.0102827
+2017,"Norway","NOR","Sweden","SWE",.0060975
+2017,"Norway","NOR","United Kingdom","GBR",.0098136
+2017,"Norway","NOR","United States","USA",.0465098
+2017,"Sweden","SWE","European Monetary Union","EMU",.0394217
+2017,"Sweden","SWE","Finland","FIN",.0032655
+2017,"Sweden","SWE","France","FRA",.0057238
+2017,"Sweden","SWE","Germany","DEU",.0124464
+2017,"Sweden","SWE","Iceland","ISL",.0116627
+2017,"Sweden","SWE","Italy","ITA",.0062296
+2017,"Sweden","SWE","Japan","JPN",.0012988
+2017,"Sweden","SWE","Netherlands","NLD",.003572
+2017,"Sweden","SWE","Norway","NOR",.0131928
+2017,"Sweden","SWE","Peru","PER",.0010539
+2017,"Sweden","SWE","Spain","ESP",.0059876
+2017,"Sweden","SWE","Sweden","SWE",.8947566
+2017,"Sweden","SWE","United Kingdom","GBR",.0068751
+2017,"Sweden","SWE","United States","USA",.0268901
+2017,"Switzerland","CHE","Australia","AUS",.0104964
+2017,"Switzerland","CHE","Austria","AUT",.0106478
+2017,"Switzerland","CHE","Belgium","BEL",.0165934
+2017,"Switzerland","CHE","Canada","CAN",.0258215
+2017,"Switzerland","CHE","Denmark","DNK",.0083554
+2017,"Switzerland","CHE","European Monetary Union","EMU",.2500195
+2017,"Switzerland","CHE","France","FRA",.0550098
+2017,"Switzerland","CHE","Germany","DEU",.0584884
+2017,"Switzerland","CHE","Italy","ITA",.0422423
+2017,"Switzerland","CHE","Japan","JPN",.0668524
+2017,"Switzerland","CHE","Korea, Republic of","KOR",.0102384
+2017,"Switzerland","CHE","Netherlands","NLD",.0175106
+2017,"Switzerland","CHE","Poland","POL",.0102282
+2017,"Switzerland","CHE","Spain","ESP",.0288965
+2017,"Switzerland","CHE","Sweden","SWE",.0117322
+2017,"Switzerland","CHE","Switzerland","CHE",.2864795
+2017,"Switzerland","CHE","United Kingdom","GBR",.0419957
+2017,"Switzerland","CHE","United States","USA",.2171076
+2017,"United Kingdom","GBR","Argentina","ARG",.0088847
+2017,"United Kingdom","GBR","Australia","AUS",.0317155
+2017,"United Kingdom","GBR","Brazil","BRA",.0106176
+2017,"United Kingdom","GBR","Canada","CAN",.0171206
+2017,"United Kingdom","GBR","European Monetary Union","EMU",.0971439
+2017,"United Kingdom","GBR","France","FRA",.03177
+2017,"United Kingdom","GBR","Germany","DEU",.0322357
+2017,"United Kingdom","GBR","Indonesia","IDN",.0140633
+2017,"United Kingdom","GBR","Italy","ITA",.0097055
+2017,"United Kingdom","GBR","Japan","JPN",.0150271
+2017,"United Kingdom","GBR","Mexico","MEX",.0265028
+2017,"United Kingdom","GBR","New Zealand","NZL",.006721
+2017,"United Kingdom","GBR","Poland","POL",.0113867
+2017,"United Kingdom","GBR","Portugal","PRT",.0068253
+2017,"United Kingdom","GBR","Russian Federation","RUS",.0070431
+2017,"United Kingdom","GBR","South Africa","ZAF",.0084163
+2017,"United Kingdom","GBR","Spain","ESP",.006363
+2017,"United Kingdom","GBR","Turkey","TUR",.007358
+2017,"United Kingdom","GBR","United Kingdom","GBR",.469299
+2017,"United Kingdom","GBR","United States","USA",.2125354
+2017,"United States","USA","Argentina","ARG",.0039243
+2017,"United States","USA","Australia","AUS",.0012987
+2017,"United States","USA","Brazil","BRA",.0077088
+2017,"United States","USA","Canada","CAN",.0051187
+2017,"United States","USA","Colombia","COL",.0018145
+2017,"United States","USA","European Monetary Union","EMU",.0183703
+2017,"United States","USA","France","FRA",.0031323
+2017,"United States","USA","Germany","DEU",.0046092
+2017,"United States","USA","India","IND",.0016315
+2017,"United States","USA","Indonesia","IDN",.0038939
+2017,"United States","USA","Italy","ITA",.003819
+2017,"United States","USA","Japan","JPN",.0124495
+2017,"United States","USA","Korea, Republic of","KOR",.0018403
+2017,"United States","USA","Mexico","MEX",.0068294
+2017,"United States","USA","Poland","POL",.0014569
+2017,"United States","USA","Russian Federation","RUS",.0016878
+2017,"United States","USA","South Africa","ZAF",.00174
+2017,"United States","USA","Spain","ESP",.0019702
+2017,"United States","USA","Sweden","SWE",.0010852
+2017,"United States","USA","Turkey","TUR",.0021617
+2017,"United States","USA","Ukraine","UKR",.0011841
+2017,"United States","USA","United Kingdom","GBR",.0030832
+2017,"United States","USA","United States","USA",.9040325
+2016,"Australia","AUS","Australia","AUS",.4738708
+2016,"Australia","AUS","Brazil","BRA",.0163561
+2016,"Australia","AUS","Canada","CAN",.042516
+2016,"Australia","AUS","European Monetary Union","EMU",.0857717
+2016,"Australia","AUS","France","FRA",.0200006
+2016,"Australia","AUS","Germany","DEU",.0196147
+2016,"Australia","AUS","Indonesia","IDN",.0070294
+2016,"Australia","AUS","Italy","ITA",.014393
+2016,"Australia","AUS","Japan","JPN",.1026689
+2016,"Australia","AUS","Mexico","MEX",.0138748
+2016,"Australia","AUS","Singapore","SGP",.0070636
+2016,"Australia","AUS","Slovenia","SVN",.0082111
+2016,"Australia","AUS","Spain","ESP",.0102342
+2016,"Australia","AUS","Sweden","SWE",.0085754
+2016,"Australia","AUS","United Kingdom","GBR",.0227796
+2016,"Australia","AUS","United States","USA",.179495
+2016,"Canada","CAN","Argentina","ARG",.0021218
+2016,"Canada","CAN","Australia","AUS",.0043871
+2016,"Canada","CAN","Brazil","BRA",.0033474
+2016,"Canada","CAN","Canada","CAN",.8282032
+2016,"Canada","CAN","European Monetary Union","EMU",.0201733
+2016,"Canada","CAN","France","FRA",.0032635
+2016,"Canada","CAN","Germany","DEU",.004946
+2016,"Canada","CAN","Indonesia","IDN",.0037278
+2016,"Canada","CAN","Italy","ITA",.0047197
+2016,"Canada","CAN","Japan","JPN",.0088363
+2016,"Canada","CAN","Korea, Republic of","KOR",.0017252
+2016,"Canada","CAN","Mexico","MEX",.0075711
+2016,"Canada","CAN","New Zealand","NZL",.0032713
+2016,"Canada","CAN","Philippines","PHL",.0021833
+2016,"Canada","CAN","Singapore","SGP",.0020219
+2016,"Canada","CAN","Spain","ESP",.0031173
+2016,"Canada","CAN","Turkey","TUR",.0017279
+2016,"Canada","CAN","United Kingdom","GBR",.0061043
+2016,"Canada","CAN","United States","USA",.0791466
+2016,"Denmark","DNK","Argentina","ARG",.0234915
+2016,"Denmark","DNK","Brazil","BRA",.0491353
+2016,"Denmark","DNK","Colombia","COL",.0324312
+2016,"Denmark","DNK","Denmark","DNK",.258122
+2016,"Denmark","DNK","Dominican Republic","DOM",.010104
+2016,"Denmark","DNK","European Monetary Union","EMU",.0757303
+2016,"Denmark","DNK","France","FRA",.0137233
+2016,"Denmark","DNK","Germany","DEU",.0157727
+2016,"Denmark","DNK","Hungary","HUN",.0176028
+2016,"Denmark","DNK","Indonesia","IDN",.0290375
+2016,"Denmark","DNK","Italy","ITA",.0238806
+2016,"Denmark","DNK","Lebanon","LBN",.0078549
+2016,"Denmark","DNK","Malaysia","MYS",.0174738
+2016,"Denmark","DNK","Mexico","MEX",.0418848
+2016,"Denmark","DNK","Peru","PER",.0193452
+2016,"Denmark","DNK","Poland","POL",.0332519
+2016,"Denmark","DNK","Russian Federation","RUS",.0292586
+2016,"Denmark","DNK","South Africa","ZAF",.0334171
+2016,"Denmark","DNK","Spain","ESP",.0123556
+2016,"Denmark","DNK","Sri Lanka","LKA",.009682
+2016,"Denmark","DNK","Thailand","THA",.0127981
+2016,"Denmark","DNK","Turkey","TUR",.0408024
+2016,"Denmark","DNK","Ukraine","UKR",.00869
+2016,"Denmark","DNK","United Kingdom","GBR",.0175962
+2016,"Denmark","DNK","United States","USA",.0973811
+2016,"Denmark","DNK","Venezuela, Bolivarian Republic of","VEN",.0093043
+2016,"European Monetary Union","EMU","Argentina","ARG",.0085594
+2016,"European Monetary Union","EMU","Australia","AUS",.0056006
+2016,"European Monetary Union","EMU","Austria","AUT",.0081915
+2016,"European Monetary Union","EMU","Belgium","BEL",.0129
+2016,"European Monetary Union","EMU","Brazil","BRA",.0167011
+2016,"European Monetary Union","EMU","Canada","CAN",.0078742
+2016,"European Monetary Union","EMU","Colombia","COL",.0073837
+2016,"European Monetary Union","EMU","Cyprus","CYP",.0008778
+2016,"European Monetary Union","EMU","European Monetary Union","EMU",.4896159
+2016,"European Monetary Union","EMU","Finland","FIN",.0024136
+2016,"European Monetary Union","EMU","France","FRA",.0591643
+2016,"European Monetary Union","EMU","Germany","DEU",.065011
+2016,"European Monetary Union","EMU","Greece","GRC",.0022622
+2016,"European Monetary Union","EMU","Hungary","HUN",.0058636
+2016,"European Monetary Union","EMU","Indonesia","IDN",.0136645
+2016,"European Monetary Union","EMU","Ireland","IRL",.0057573
+2016,"European Monetary Union","EMU","Italy","ITA",.1903797
+2016,"European Monetary Union","EMU","Japan","JPN",.0199955
+2016,"European Monetary Union","EMU","Latvia","LVA",.0004124
+2016,"European Monetary Union","EMU","Lithuania","LTU",.0009407
+2016,"European Monetary Union","EMU","Luxembourg","LUX",.000066
+2016,"European Monetary Union","EMU","Malaysia","MYS",.0060588
+2016,"European Monetary Union","EMU","Malta","MLT",5.81e-06
+2016,"European Monetary Union","EMU","Mexico","MEX",.0173821
+2016,"European Monetary Union","EMU","Netherlands","NLD",.0142064
+2016,"European Monetary Union","EMU","Poland","POL",.0101706
+2016,"European Monetary Union","EMU","Portugal","PRT",.010296
+2016,"European Monetary Union","EMU","Russian Federation","RUS",.0087557
+2016,"European Monetary Union","EMU","Slovakia","SVK",.0006588
+2016,"European Monetary Union","EMU","Slovenia","SVN",.0021333
+2016,"European Monetary Union","EMU","South Africa","ZAF",.0096197
+2016,"European Monetary Union","EMU","Spain","ESP",.113939
+2016,"European Monetary Union","EMU","Sweden","SWE",.0073787
+2016,"European Monetary Union","EMU","Turkey","TUR",.0115681
+2016,"European Monetary Union","EMU","United Kingdom","GBR",.0333765
+2016,"European Monetary Union","EMU","United States","USA",.2469751
+2016,"Norway","NOR","Austria","AUT",.0030377
+2016,"Norway","NOR","Belgium","BEL",.0052257
+2016,"Norway","NOR","Canada","CAN",.0034317
+2016,"Norway","NOR","Croatia","HRV",.0036681
+2016,"Norway","NOR","European Monetary Union","EMU",.0567161
+2016,"Norway","NOR","Finland","FIN",.0041604
+2016,"Norway","NOR","France","FRA",.0087935
+2016,"Norway","NOR","Germany","DEU",.0081849
+2016,"Norway","NOR","Greece","GRC",.0026706
+2016,"Norway","NOR","Italy","ITA",.0073634
+2016,"Norway","NOR","Japan","JPN",.0154097
+2016,"Norway","NOR","Mexico","MEX",.0030262
+2016,"Norway","NOR","Netherlands","NLD",.0023901
+2016,"Norway","NOR","Norway","NOR",.8307516
+2016,"Norway","NOR","Peru","PER",.0017346
+2016,"Norway","NOR","Portugal","PRT",.0032564
+2016,"Norway","NOR","Spain","ESP",.0097421
+2016,"Norway","NOR","Sweden","SWE",.0137327
+2016,"Norway","NOR","United Kingdom","GBR",.0097253
+2016,"Norway","NOR","United States","USA",.0515093
+2016,"Sweden","SWE","Belgium","BEL",.0008481
+2016,"Sweden","SWE","European Monetary Union","EMU",.0281121
+2016,"Sweden","SWE","Finland","FIN",.0021735
+2016,"Sweden","SWE","France","FRA",.0052629
+2016,"Sweden","SWE","Germany","DEU",.0071751
+2016,"Sweden","SWE","Italy","ITA",.0065709
+2016,"Sweden","SWE","Japan","JPN",.0007511
+2016,"Sweden","SWE","Netherlands","NLD",.0016471
+2016,"Sweden","SWE","Poland","POL",.0012247
+2016,"Sweden","SWE","South Africa","ZAF",.0011916
+2016,"Sweden","SWE","Spain","ESP",.0034865
+2016,"Sweden","SWE","Sweden","SWE",.9309829
+2016,"Sweden","SWE","United Kingdom","GBR",.0049296
+2016,"Sweden","SWE","United States","USA",.0277763
+2016,"Switzerland","CHE","Australia","AUS",.0116055
+2016,"Switzerland","CHE","Austria","AUT",.0092721
+2016,"Switzerland","CHE","Belgium","BEL",.0172555
+2016,"Switzerland","CHE","Canada","CAN",.0298892
+2016,"Switzerland","CHE","Denmark","DNK",.0090066
+2016,"Switzerland","CHE","European Monetary Union","EMU",.2536415
+2016,"Switzerland","CHE","France","FRA",.0511044
+2016,"Switzerland","CHE","Germany","DEU",.0644682
+2016,"Switzerland","CHE","Italy","ITA",.0444088
+2016,"Switzerland","CHE","Japan","JPN",.0630821
+2016,"Switzerland","CHE","Korea, Republic of","KOR",.0101327
+2016,"Switzerland","CHE","Netherlands","NLD",.0188187
+2016,"Switzerland","CHE","Poland","POL",.0135909
+2016,"Switzerland","CHE","Spain","ESP",.0295637
+2016,"Switzerland","CHE","Sweden","SWE",.01677
+2016,"Switzerland","CHE","Switzerland","CHE",.2832064
+2016,"Switzerland","CHE","United Kingdom","GBR",.0387814
+2016,"Switzerland","CHE","United States","USA",.2166142
+2016,"United Kingdom","GBR","Argentina","ARG",.0061646
+2016,"United Kingdom","GBR","Australia","AUS",.0244936
+2016,"United Kingdom","GBR","Brazil","BRA",.0073285
+2016,"United Kingdom","GBR","Canada","CAN",.007947
+2016,"United Kingdom","GBR","European Monetary Union","EMU",.0899418
+2016,"United Kingdom","GBR","France","FRA",.0128488
+2016,"United Kingdom","GBR","Germany","DEU",.0479603
+2016,"United Kingdom","GBR","Indonesia","IDN",.0068751
+2016,"United Kingdom","GBR","Italy","ITA",.0106573
+2016,"United Kingdom","GBR","Japan","JPN",.012174
+2016,"United Kingdom","GBR","Mexico","MEX",.0189188
+2016,"United Kingdom","GBR","New Zealand","NZL",.0076178
+2016,"United Kingdom","GBR","Poland","POL",.0057731
+2016,"United Kingdom","GBR","Portugal","PRT",.0062826
+2016,"United Kingdom","GBR","Spain","ESP",.0069631
+2016,"United Kingdom","GBR","Turkey","TUR",.0051445
+2016,"United Kingdom","GBR","United Kingdom","GBR",.5445664
+2016,"United Kingdom","GBR","United States","USA",.2195726
+2016,"United States","USA","Argentina","ARG",.0021334
+2016,"United States","USA","Australia","AUS",.0011409
+2016,"United States","USA","Brazil","BRA",.0086856
+2016,"United States","USA","Canada","CAN",.0043237
+2016,"United States","USA","Colombia","COL",.0016954
+2016,"United States","USA","European Monetary Union","EMU",.0134047
+2016,"United States","USA","France","FRA",.0020677
+2016,"United States","USA","Germany","DEU",.0037944
+2016,"United States","USA","Hungary","HUN",.0010929
+2016,"United States","USA","India","IND",.0009003
+2016,"United States","USA","Indonesia","IDN",.0033489
+2016,"United States","USA","Italy","ITA",.002484
+2016,"United States","USA","Japan","JPN",.0136039
+2016,"United States","USA","Korea, Republic of","KOR",.0028315
+2016,"United States","USA","Malaysia","MYS",.0013599
+2016,"United States","USA","Mexico","MEX",.0069397
+2016,"United States","USA","Philippines","PHL",.0009551
+2016,"United States","USA","Poland","POL",.0012851
+2016,"United States","USA","Russian Federation","RUS",.0013087
+2016,"United States","USA","South Africa","ZAF",.0013069
+2016,"United States","USA","Spain","ESP",.0014415
+2016,"United States","USA","Turkey","TUR",.0014949
+2016,"United States","USA","Ukraine","UKR",.0013862
+2016,"United States","USA","United Kingdom","GBR",.0024667
+2016,"United States","USA","United States","USA",.9158198
+2015,"Australia","AUS","Australia","AUS",.4307705
+2015,"Australia","AUS","Belgium","BEL",.0076596
+2015,"Australia","AUS","Brazil","BRA",.0077804
+2015,"Australia","AUS","Canada","CAN",.0455023
+2015,"Australia","AUS","European Monetary Union","EMU",.1429799
+2015,"Australia","AUS","France","FRA",.0455066
+2015,"Australia","AUS","Germany","DEU",.019555
+2015,"Australia","AUS","Indonesia","IDN",.0057021
+2015,"Australia","AUS","Israel","ISR",.0063826
+2015,"Australia","AUS","Italy","ITA",.0211197
+2015,"Australia","AUS","Japan","JPN",.1152387
+2015,"Australia","AUS","Korea, Republic of","KOR",.007659
+2015,"Australia","AUS","Mexico","MEX",.017628
+2015,"Australia","AUS","Netherlands","NLD",.0058692
+2015,"Australia","AUS","Singapore","SGP",.0072284
+2015,"Australia","AUS","Slovenia","SVN",.0099714
+2015,"Australia","AUS","Spain","ESP",.022292
+2015,"Australia","AUS","United Kingdom","GBR",.0268367
+2015,"Australia","AUS","United States","USA",.1511478
+2015,"Canada","CAN","Australia","AUS",.0051846
+2015,"Canada","CAN","Brazil","BRA",.0044483
+2015,"Canada","CAN","Canada","CAN",.8349931
+2015,"Canada","CAN","European Monetary Union","EMU",.0257125
+2015,"Canada","CAN","France","FRA",.0038478
+2015,"Canada","CAN","Germany","DEU",.0052444
+2015,"Canada","CAN","Hungary","HUN",.0017817
+2015,"Canada","CAN","Indonesia","IDN",.003408
+2015,"Canada","CAN","Italy","ITA",.0062783
+2015,"Canada","CAN","Japan","JPN",.0130102
+2015,"Canada","CAN","Korea, Republic of","KOR",.0024811
+2015,"Canada","CAN","Mexico","MEX",.0085429
+2015,"Canada","CAN","New Zealand","NZL",.0038169
+2015,"Canada","CAN","Norway","NOR",.0018317
+2015,"Canada","CAN","Philippines","PHL",.0025424
+2015,"Canada","CAN","Poland","POL",.0021026
+2015,"Canada","CAN","Portugal","PRT",.0018748
+2015,"Canada","CAN","Singapore","SGP",.0019714
+2015,"Canada","CAN","Spain","ESP",.004305
+2015,"Canada","CAN","Sweden","SWE",.0018577
+2015,"Canada","CAN","Turkey","TUR",.0017739
+2015,"Canada","CAN","United Kingdom","GBR",.0060717
+2015,"Canada","CAN","United States","USA",.0564448
+2015,"Denmark","DNK","Argentina","ARG",.0153142
+2015,"Denmark","DNK","Brazil","BRA",.0338669
+2015,"Denmark","DNK","Colombia","COL",.0237682
+2015,"Denmark","DNK","Croatia","HRV",.0081965
+2015,"Denmark","DNK","Denmark","DNK",.2931879
+2015,"Denmark","DNK","Dominican Republic","DOM",.0112572
+2015,"Denmark","DNK","European Monetary Union","EMU",.1112403
+2015,"Denmark","DNK","France","FRA",.0123766
+2015,"Denmark","DNK","Germany","DEU",.0234398
+2015,"Denmark","DNK","Hungary","HUN",.0222494
+2015,"Denmark","DNK","Indonesia","IDN",.0240602
+2015,"Denmark","DNK","Italy","ITA",.0286916
+2015,"Denmark","DNK","Kazakhstan","KAZ",.0072826
+2015,"Denmark","DNK","Malaysia","MYS",.0152563
+2015,"Denmark","DNK","Mexico","MEX",.040601
+2015,"Denmark","DNK","Panama","PAN",.0086363
+2015,"Denmark","DNK","Peru","PER",.0155837
+2015,"Denmark","DNK","Philippines","PHL",.0096466
+2015,"Denmark","DNK","Poland","POL",.0194851
+2015,"Denmark","DNK","Portugal","PRT",.0081844
+2015,"Denmark","DNK","Romania","ROU",.012074
+2015,"Denmark","DNK","Russian Federation","RUS",.0201178
+2015,"Denmark","DNK","South Africa","ZAF",.0232457
+2015,"Denmark","DNK","Spain","ESP",.0231623
+2015,"Denmark","DNK","Sri Lanka","LKA",.0110268
+2015,"Denmark","DNK","Thailand","THA",.0089873
+2015,"Denmark","DNK","Turkey","TUR",.0364956
+2015,"Denmark","DNK","Ukraine","UKR",.0075927
+2015,"Denmark","DNK","United Kingdom","GBR",.0215564
+2015,"Denmark","DNK","United States","USA",.0741261
+2015,"Denmark","DNK","Uruguay","URY",.0099818
+2015,"Denmark","DNK","Venezuela, Bolivarian Republic of","VEN",.0085632
+2015,"European Monetary Union","EMU","Australia","AUS",.0058645
+2015,"European Monetary Union","EMU","Austria","AUT",.0106579
+2015,"European Monetary Union","EMU","Belgium","BEL",.0159049
+2015,"European Monetary Union","EMU","Brazil","BRA",.0138335
+2015,"European Monetary Union","EMU","Canada","CAN",.0076993
+2015,"European Monetary Union","EMU","Colombia","COL",.0061466
+2015,"European Monetary Union","EMU","Cyprus","CYP",.0004733
+2015,"European Monetary Union","EMU","European Monetary Union","EMU",.5482215
+2015,"European Monetary Union","EMU","Finland","FIN",.0037598
+2015,"European Monetary Union","EMU","France","FRA",.0700319
+2015,"European Monetary Union","EMU","Germany","DEU",.0849186
+2015,"European Monetary Union","EMU","Greece","GRC",.0014185
+2015,"European Monetary Union","EMU","Hungary","HUN",.0064477
+2015,"European Monetary Union","EMU","Indonesia","IDN",.011134
+2015,"European Monetary Union","EMU","Ireland","IRL",.0102276
+2015,"European Monetary Union","EMU","Italy","ITA",.2050035
+2015,"European Monetary Union","EMU","Japan","JPN",.0193446
+2015,"European Monetary Union","EMU","Latvia","LVA",.0004381
+2015,"European Monetary Union","EMU","Lithuania","LTU",.0011168
+2015,"European Monetary Union","EMU","Luxembourg","LUX",.0001679
+2015,"European Monetary Union","EMU","Malaysia","MYS",.0049025
+2015,"European Monetary Union","EMU","Malta","MLT",6.25e-06
+2015,"European Monetary Union","EMU","Mexico","MEX",.0200522
+2015,"European Monetary Union","EMU","Netherlands","NLD",.0197674
+2015,"European Monetary Union","EMU","Poland","POL",.0103567
+2015,"European Monetary Union","EMU","Portugal","PRT",.0101095
+2015,"European Monetary Union","EMU","Russian Federation","RUS",.0056775
+2015,"European Monetary Union","EMU","Slovakia","SVK",.0007583
+2015,"European Monetary Union","EMU","Slovenia","SVN",.002977
+2015,"European Monetary Union","EMU","South Africa","ZAF",.0070284
+2015,"European Monetary Union","EMU","Spain","ESP",.1104843
+2015,"European Monetary Union","EMU","Sweden","SWE",.0074832
+2015,"European Monetary Union","EMU","Turkey","TUR",.0107874
+2015,"European Monetary Union","EMU","United Kingdom","GBR",.0397635
+2015,"European Monetary Union","EMU","United States","USA",.2072342
+2015,"Norway","NOR","Austria","AUT",.006354
+2015,"Norway","NOR","Canada","CAN",.004737
+2015,"Norway","NOR","Croatia","HRV",.0044137
+2015,"Norway","NOR","European Monetary Union","EMU",.1319166
+2015,"Norway","NOR","Finland","FIN",.0041034
+2015,"Norway","NOR","France","FRA",.0731831
+2015,"Norway","NOR","Germany","DEU",.0129519
+2015,"Norway","NOR","Italy","ITA",.0104071
+2015,"Norway","NOR","Japan","JPN",.02386
+2015,"Norway","NOR","Mexico","MEX",.0064177
+2015,"Norway","NOR","Norway","NOR",.7384771
+2015,"Norway","NOR","Portugal","PRT",.0033882
+2015,"Norway","NOR","Slovenia","SVN",.0036407
+2015,"Norway","NOR","Spain","ESP",.0114917
+2015,"Norway","NOR","Sweden","SWE",.0092817
+2015,"Norway","NOR","United Kingdom","GBR",.0107964
+2015,"Norway","NOR","United States","USA",.0585148
+2015,"Sweden","SWE","Austria","AUT",.0005948
+2015,"Sweden","SWE","Belgium","BEL",.0010294
+2015,"Sweden","SWE","European Monetary Union","EMU",.0334416
+2015,"Sweden","SWE","Finland","FIN",.0006348
+2015,"Sweden","SWE","France","FRA",.0028708
+2015,"Sweden","SWE","Germany","DEU",.0029965
+2015,"Sweden","SWE","Ireland","IRL",.0039451
+2015,"Sweden","SWE","Italy","ITA",.0164293
+2015,"Sweden","SWE","Netherlands","NLD",.001055
+2015,"Sweden","SWE","Portugal","PRT",.0015106
+2015,"Sweden","SWE","Spain","ESP",.0023753
+2015,"Sweden","SWE","Sweden","SWE",.9418334
+2015,"Sweden","SWE","Turkey","TUR",.001528
+2015,"Sweden","SWE","United Kingdom","GBR",.0027553
+2015,"Sweden","SWE","United States","USA",.0167948
+2015,"Switzerland","CHE","Australia","AUS",.0126726
+2015,"Switzerland","CHE","Austria","AUT",.011891
+2015,"Switzerland","CHE","Belgium","BEL",.0156829
+2015,"Switzerland","CHE","Canada","CAN",.0324398
+2015,"Switzerland","CHE","Denmark","DNK",.0118633
+2015,"Switzerland","CHE","European Monetary Union","EMU",.2639915
+2015,"Switzerland","CHE","France","FRA",.0527092
+2015,"Switzerland","CHE","Germany","DEU",.0660798
+2015,"Switzerland","CHE","Italy","ITA",.0495987
+2015,"Switzerland","CHE","Japan","JPN",.0655184
+2015,"Switzerland","CHE","Korea, Republic of","KOR",.0102832
+2015,"Switzerland","CHE","Netherlands","NLD",.0173363
+2015,"Switzerland","CHE","Poland","POL",.0135289
+2015,"Switzerland","CHE","Spain","ESP",.0305125
+2015,"Switzerland","CHE","Sweden","SWE",.0168329
+2015,"Switzerland","CHE","Switzerland","CHE",.276799
+2015,"Switzerland","CHE","United Kingdom","GBR",.0423384
+2015,"Switzerland","CHE","United States","USA",.2172079
+2015,"United Kingdom","GBR","Australia","AUS",.018487
+2015,"United Kingdom","GBR","Brazil","BRA",.0042196
+2015,"United Kingdom","GBR","Canada","CAN",.0068761
+2015,"United Kingdom","GBR","European Monetary Union","EMU",.103184
+2015,"United Kingdom","GBR","France","FRA",.007488
+2015,"United Kingdom","GBR","Germany","DEU",.0408589
+2015,"United Kingdom","GBR","Italy","ITA",.0221815
+2015,"United Kingdom","GBR","Japan","JPN",.0115464
+2015,"United Kingdom","GBR","Mexico","MEX",.0185809
+2015,"United Kingdom","GBR","New Zealand","NZL",.0070852
+2015,"United Kingdom","GBR","Norway","NOR",.005525
+2015,"United Kingdom","GBR","Poland","POL",.0063988
+2015,"United Kingdom","GBR","Portugal","PRT",.0087891
+2015,"United Kingdom","GBR","Spain","ESP",.0173232
+2015,"United Kingdom","GBR","United Kingdom","GBR",.5967077
+2015,"United Kingdom","GBR","United States","USA",.1855963
+2015,"United States","USA","Australia","AUS",.0014394
+2015,"United States","USA","Brazil","BRA",.0093687
+2015,"United States","USA","Canada","CAN",.0050001
+2015,"United States","USA","Colombia","COL",.0011906
+2015,"United States","USA","European Monetary Union","EMU",.0175005
+2015,"United States","USA","France","FRA",.0021116
+2015,"United States","USA","Germany","DEU",.0038289
+2015,"United States","USA","Hungary","HUN",.0018707
+2015,"United States","USA","India","IND",.0010567
+2015,"United States","USA","Indonesia","IDN",.0031492
+2015,"United States","USA","Italy","ITA",.0038179
+2015,"United States","USA","Japan","JPN",.0093042
+2015,"United States","USA","Korea, Republic of","KOR",.0054122
+2015,"United States","USA","Malaysia","MYS",.0018707
+2015,"United States","USA","Mexico","MEX",.0092076
+2015,"United States","USA","Philippines","PHL",.0010742
+2015,"United States","USA","Poland","POL",.0024057
+2015,"United States","USA","Portugal","PRT",.0010052
+2015,"United States","USA","Slovenia","SVN",.0011775
+2015,"United States","USA","South Africa","ZAF",.000937
+2015,"United States","USA","Spain","ESP",.0021867
+2015,"United States","USA","Turkey","TUR",.0019536
+2015,"United States","USA","Ukraine","UKR",.0015893
+2015,"United States","USA","United Kingdom","GBR",.003035
+2015,"United States","USA","United States","USA",.908042
+2014,"Australia","AUS","Australia","AUS",.3397985
+2014,"Australia","AUS","Brazil","BRA",.0155821
+2014,"Australia","AUS","Canada","CAN",.0342248
+2014,"Australia","AUS","European Monetary Union","EMU",.1539363
+2014,"Australia","AUS","Germany","DEU",.0153892
+2014,"Australia","AUS","Italy","ITA",.057319
+2014,"Australia","AUS","Japan","JPN",.036743
+2014,"Australia","AUS","Korea, Republic of","KOR",.0135776
+2014,"Australia","AUS","Mexico","MEX",.0565061
+2014,"Australia","AUS","New Zealand","NZL",.0068646
+2014,"Australia","AUS","Poland","POL",.0115641
+2014,"Australia","AUS","Portugal","PRT",.0067826
+2014,"Australia","AUS","Slovenia","SVN",.0076705
+2014,"Australia","AUS","Spain","ESP",.0446227
+2014,"Australia","AUS","United Kingdom","GBR",.0254116
+2014,"Australia","AUS","United States","USA",.2506342
+2014,"Canada","CAN","Australia","AUS",.0036446
+2014,"Canada","CAN","Brazil","BRA",.0057496
+2014,"Canada","CAN","Canada","CAN",.8651559
+2014,"Canada","CAN","European Monetary Union","EMU",.0217134
+2014,"Canada","CAN","France","FRA",.0041242
+2014,"Canada","CAN","Germany","DEU",.0040728
+2014,"Canada","CAN","Hungary","HUN",.0014803
+2014,"Canada","CAN","Indonesia","IDN",.002325
+2014,"Canada","CAN","Ireland","IRL",.0014373
+2014,"Canada","CAN","Italy","ITA",.004856
+2014,"Canada","CAN","Japan","JPN",.0085048
+2014,"Canada","CAN","Korea, Republic of","KOR",.0030444
+2014,"Canada","CAN","Mexico","MEX",.0073388
+2014,"Canada","CAN","New Zealand","NZL",.0028917
+2014,"Canada","CAN","Norway","NOR",.0014257
+2014,"Canada","CAN","Philippines","PHL",.0019379
+2014,"Canada","CAN","Poland","POL",.0025318
+2014,"Canada","CAN","Spain","ESP",.0033683
+2014,"Canada","CAN","Sweden","SWE",.0020768
+2014,"Canada","CAN","Turkey","TUR",.0013838
+2014,"Canada","CAN","United Kingdom","GBR",.0048531
+2014,"Canada","CAN","United States","USA",.0433604
+2014,"Denmark","DNK","Argentina","ARG",.0125447
+2014,"Denmark","DNK","Brazil","BRA",.0445473
+2014,"Denmark","DNK","Colombia","COL",.0247736
+2014,"Denmark","DNK","Croatia","HRV",.0101502
+2014,"Denmark","DNK","Denmark","DNK",.3329577
+2014,"Denmark","DNK","Dominican Republic","DOM",.0072988
+2014,"Denmark","DNK","European Monetary Union","EMU",.0719627
+2014,"Denmark","DNK","France","FRA",.0076122
+2014,"Denmark","DNK","Germany","DEU",.0198216
+2014,"Denmark","DNK","Hungary","HUN",.0223659
+2014,"Denmark","DNK","Indonesia","IDN",.0313415
+2014,"Denmark","DNK","Italy","ITA",.0116391
+2014,"Denmark","DNK","Malaysia","MYS",.0180371
+2014,"Denmark","DNK","Mexico","MEX",.0513471
+2014,"Denmark","DNK","Panama","PAN",.0074248
+2014,"Denmark","DNK","Peru","PER",.0142747
+2014,"Denmark","DNK","Philippines","PHL",.0089218
+2014,"Denmark","DNK","Poland","POL",.0224355
+2014,"Denmark","DNK","Romania","ROU",.0110013
+2014,"Denmark","DNK","Russian Federation","RUS",.0190734
+2014,"Denmark","DNK","Slovenia","SVN",.0079214
+2014,"Denmark","DNK","South Africa","ZAF",.0301792
+2014,"Denmark","DNK","Spain","ESP",.0130976
+2014,"Denmark","DNK","Sri Lanka","LKA",.0110852
+2014,"Denmark","DNK","Thailand","THA",.014398
+2014,"Denmark","DNK","Turkey","TUR",.0449478
+2014,"Denmark","DNK","United Kingdom","GBR",.0212235
+2014,"Denmark","DNK","United States","USA",.0517788
+2014,"Denmark","DNK","Uruguay","URY",.0082221
+2014,"Denmark","DNK","Venezuela, Bolivarian Republic of","VEN",.0086717
+2014,"European Monetary Union","EMU","Australia","AUS",.0054928
+2014,"European Monetary Union","EMU","Austria","AUT",.011905
+2014,"European Monetary Union","EMU","Belgium","BEL",.0178672
+2014,"European Monetary Union","EMU","Brazil","BRA",.0196654
+2014,"European Monetary Union","EMU","Canada","CAN",.0064602
+2014,"European Monetary Union","EMU","Colombia","COL",.0061885
+2014,"European Monetary Union","EMU","Cyprus","CYP",.0007334
+2014,"European Monetary Union","EMU","European Monetary Union","EMU",.6244335
+2014,"European Monetary Union","EMU","Finland","FIN",.004406
+2014,"European Monetary Union","EMU","France","FRA",.0724135
+2014,"European Monetary Union","EMU","Germany","DEU",.0823045
+2014,"European Monetary Union","EMU","Greece","GRC",.0030503
+2014,"European Monetary Union","EMU","Hungary","HUN",.005841
+2014,"European Monetary Union","EMU","Indonesia","IDN",.0114895
+2014,"European Monetary Union","EMU","Ireland","IRL",.0095762
+2014,"European Monetary Union","EMU","Italy","ITA",.2205788
+2014,"European Monetary Union","EMU","Japan","JPN",.0120071
+2014,"European Monetary Union","EMU","Korea, Republic of","KOR",.0046519
+2014,"European Monetary Union","EMU","Latvia","LVA",.0007618
+2014,"European Monetary Union","EMU","Luxembourg","LUX",.0002224
+2014,"European Monetary Union","EMU","Malaysia","MYS",.0065195
+2014,"European Monetary Union","EMU","Mexico","MEX",.0203127
+2014,"European Monetary Union","EMU","Netherlands","NLD",.0208624
+2014,"European Monetary Union","EMU","Poland","POL",.010723
+2014,"European Monetary Union","EMU","Portugal","PRT",.0105775
+2014,"European Monetary Union","EMU","Romania","ROU",.0048161
+2014,"European Monetary Union","EMU","Russian Federation","RUS",.0066587
+2014,"European Monetary Union","EMU","Slovakia","SVK",.0010011
+2014,"European Monetary Union","EMU","Slovenia","SVN",.003097
+2014,"European Monetary Union","EMU","South Africa","ZAF",.0092563
+2014,"European Monetary Union","EMU","Spain","ESP",.1650765
+2014,"European Monetary Union","EMU","Sweden","SWE",.0065117
+2014,"European Monetary Union","EMU","Thailand","THA",.0038702
+2014,"European Monetary Union","EMU","Turkey","TUR",.0129101
+2014,"European Monetary Union","EMU","United Kingdom","GBR",.0378985
+2014,"European Monetary Union","EMU","United States","USA",.1325157
+2014,"Norway","NOR","Austria","AUT",.009363
+2014,"Norway","NOR","Belgium","BEL",.0044443
+2014,"Norway","NOR","Canada","CAN",.0087322
+2014,"Norway","NOR","European Monetary Union","EMU",.1170355
+2014,"Norway","NOR","Finland","FIN",.0120147
+2014,"Norway","NOR","France","FRA",.0085647
+2014,"Norway","NOR","Germany","DEU",.0359948
+2014,"Norway","NOR","India","IND",.0333003
+2014,"Norway","NOR","Italy","ITA",.0149215
+2014,"Norway","NOR","Japan","JPN",.0225375
+2014,"Norway","NOR","Mexico","MEX",.00722
+2014,"Norway","NOR","Norway","NOR",.730624
+2014,"Norway","NOR","Poland","POL",.0035721
+2014,"Norway","NOR","Portugal","PRT",.0054268
+2014,"Norway","NOR","Slovenia","SVN",.0075822
+2014,"Norway","NOR","Spain","ESP",.016442
+2014,"Norway","NOR","Sweden","SWE",.0053749
+2014,"Norway","NOR","Switzerland","CHE",.0051618
+2014,"Norway","NOR","Turkey","TUR",.0030275
+2014,"Norway","NOR","United Kingdom","GBR",.0148504
+2014,"Norway","NOR","United States","USA",.0336
+2014,"Sweden","SWE","Austria","AUT",.0007854
+2014,"Sweden","SWE","Belgium","BEL",.0018535
+2014,"Sweden","SWE","European Monetary Union","EMU",.0397585
+2014,"Sweden","SWE","Finland","FIN",.0028521
+2014,"Sweden","SWE","France","FRA",.0042602
+2014,"Sweden","SWE","Germany","DEU",.0067981
+2014,"Sweden","SWE","Ireland","IRL",.0015399
+2014,"Sweden","SWE","Italy","ITA",.0140731
+2014,"Sweden","SWE","Netherlands","NLD",.0020529
+2014,"Sweden","SWE","Sovranationals","XSN",.0012546
+2014,"Sweden","SWE","Spain","ESP",.0054427
+2014,"Sweden","SWE","Sweden","SWE",.9256116
+2014,"Sweden","SWE","Turkey","TUR",.0015472
+2014,"Sweden","SWE","United Kingdom","GBR",.0052804
+2014,"Sweden","SWE","United States","USA",.0222183
+2014,"Switzerland","CHE","Australia","AUS",.0114642
+2014,"Switzerland","CHE","Austria","AUT",.0148148
+2014,"Switzerland","CHE","Belgium","BEL",.0221439
+2014,"Switzerland","CHE","Canada","CAN",.0373391
+2014,"Switzerland","CHE","Denmark","DNK",.0078472
+2014,"Switzerland","CHE","European Monetary Union","EMU",.3140784
+2014,"Switzerland","CHE","France","FRA",.0686285
+2014,"Switzerland","CHE","Germany","DEU",.073945
+2014,"Switzerland","CHE","Italy","ITA",.0595495
+2014,"Switzerland","CHE","Japan","JPN",.0618921
+2014,"Switzerland","CHE","Korea, Republic of","KOR",.0113011
+2014,"Switzerland","CHE","Netherlands","NLD",.0246113
+2014,"Switzerland","CHE","Poland","POL",.0153703
+2014,"Switzerland","CHE","Spain","ESP",.0311938
+2014,"Switzerland","CHE","Sweden","SWE",.0073498
+2014,"Switzerland","CHE","Switzerland","CHE",.2726541
+2014,"Switzerland","CHE","United Kingdom","GBR",.0428806
+2014,"Switzerland","CHE","United States","USA",.1834837
+2014,"United Kingdom","GBR","Australia","AUS",.0210666
+2014,"United Kingdom","GBR","Brazil","BRA",.0120987
+2014,"United Kingdom","GBR","Canada","CAN",.0051786
+2014,"United Kingdom","GBR","Colombia","COL",.00508
+2014,"United Kingdom","GBR","European Monetary Union","EMU",.0677417
+2014,"United Kingdom","GBR","France","FRA",.0068303
+2014,"United Kingdom","GBR","Germany","DEU",.017516
+2014,"United Kingdom","GBR","Indonesia","IDN",.0035591
+2014,"United Kingdom","GBR","Italy","ITA",.0163158
+2014,"United Kingdom","GBR","Japan","JPN",.0096205
+2014,"United Kingdom","GBR","Malaysia","MYS",.003594
+2014,"United Kingdom","GBR","Mexico","MEX",.015309
+2014,"United Kingdom","GBR","New Zealand","NZL",.0067344
+2014,"United Kingdom","GBR","Norway","NOR",.0056157
+2014,"United Kingdom","GBR","Poland","POL",.0051464
+2014,"United Kingdom","GBR","Portugal","PRT",.0045407
+2014,"United Kingdom","GBR","South Africa","ZAF",.0041357
+2014,"United Kingdom","GBR","Spain","ESP",.0134283
+2014,"United Kingdom","GBR","Turkey","TUR",.0038494
+2014,"United Kingdom","GBR","United Kingdom","GBR",.66519
+2014,"United Kingdom","GBR","United States","USA",.139775
+2014,"United States","USA","Australia","AUS",.001246
+2014,"United States","USA","Brazil","BRA",.008041
+2014,"United States","USA","Canada","CAN",.007569
+2014,"United States","USA","Colombia","COL",.0013667
+2014,"United States","USA","European Monetary Union","EMU",.0263207
+2014,"United States","USA","France","FRA",.0018288
+2014,"United States","USA","Germany","DEU",.004154
+2014,"United States","USA","Hungary","HUN",.0033123
+2014,"United States","USA","India","IND",.0010615
+2014,"United States","USA","Indonesia","IDN",.0024822
+2014,"United States","USA","Ireland","IRL",.0018962
+2014,"United States","USA","Italy","ITA",.0069435
+2014,"United States","USA","Japan","JPN",.0060529
+2014,"United States","USA","Korea, Republic of","KOR",.0061363
+2014,"United States","USA","Malaysia","MYS",.0013018
+2014,"United States","USA","Mexico","MEX",.0105504
+2014,"United States","USA","Philippines","PHL",.0012895
+2014,"United States","USA","Poland","POL",.0039456
+2014,"United States","USA","Portugal","PRT",.0012568
+2014,"United States","USA","Russian Federation","RUS",.0014922
+2014,"United States","USA","Slovenia","SVN",.0012996
+2014,"United States","USA","South Africa","ZAF",.0014423
+2014,"United States","USA","Spain","ESP",.0059032
+2014,"United States","USA","Sweden","SWE",.001235
+2014,"United States","USA","Turkey","TUR",.00264
+2014,"United States","USA","Ukraine","UKR",.001083
+2014,"United States","USA","United Kingdom","GBR",.0029742
+2014,"United States","USA","United States","USA",.8944575
+2013,"Australia","AUS","Australia","AUS",.3832789
+2013,"Australia","AUS","Austria","AUT",.0077519
+2013,"Australia","AUS","Belgium","BEL",.0086737
+2013,"Australia","AUS","Canada","CAN",.0283004
+2013,"Australia","AUS","Denmark","DNK",.0083255
+2013,"Australia","AUS","European Monetary Union","EMU",.1900666
+2013,"Australia","AUS","France","FRA",.0091195
+2013,"Australia","AUS","Germany","DEU",.0134768
+2013,"Australia","AUS","Hungary","HUN",.006739
+2013,"Australia","AUS","Ireland","IRL",.0073256
+2013,"Australia","AUS","Italy","ITA",.062219
+2013,"Australia","AUS","Japan","JPN",.0214737
+2013,"Australia","AUS","Korea, Republic of","KOR",.0106021
+2013,"Australia","AUS","Mexico","MEX",.0137141
+2013,"Australia","AUS","Netherlands","NLD",.0065815
+2013,"Australia","AUS","New Zealand","NZL",.0098051
+2013,"Australia","AUS","Poland","POL",.0075791
+2013,"Australia","AUS","Spain","ESP",.0624729
+2013,"Australia","AUS","Sweden","SWE",.0118639
+2013,"Australia","AUS","United Kingdom","GBR",.0308726
+2013,"Australia","AUS","United States","USA",.2385809
+2013,"Canada","CAN","Australia","AUS",.0028433
+2013,"Canada","CAN","Brazil","BRA",.0047802
+2013,"Canada","CAN","Canada","CAN",.889529
+2013,"Canada","CAN","European Monetary Union","EMU",.0214451
+2013,"Canada","CAN","France","FRA",.0050428
+2013,"Canada","CAN","Germany","DEU",.0046658
+2013,"Canada","CAN","Hungary","HUN",.0013971
+2013,"Canada","CAN","Indonesia","IDN",.0013675
+2013,"Canada","CAN","Ireland","IRL",.002131
+2013,"Canada","CAN","Italy","ITA",.0041737
+2013,"Canada","CAN","Japan","JPN",.0068298
+2013,"Canada","CAN","Korea, Republic of","KOR",.0023873
+2013,"Canada","CAN","Malaysia","MYS",.0014478
+2013,"Canada","CAN","Mexico","MEX",.0054144
+2013,"Canada","CAN","New Zealand","NZL",.0023039
+2013,"Canada","CAN","Norway","NOR",.0014652
+2013,"Canada","CAN","Philippines","PHL",.0016795
+2013,"Canada","CAN","Poland","POL",.0023577
+2013,"Canada","CAN","Russian Federation","RUS",.0016291
+2013,"Canada","CAN","Singapore","SGP",.0012575
+2013,"Canada","CAN","Spain","ESP",.0022718
+2013,"Canada","CAN","Sweden","SWE",.0023236
+2013,"Canada","CAN","Turkey","TUR",.0012748
+2013,"Canada","CAN","United Kingdom","GBR",.0039511
+2013,"Canada","CAN","United States","USA",.0307334
+2013,"Denmark","DNK","Argentina","ARG",.0082808
+2013,"Denmark","DNK","Brazil","BRA",.0469652
+2013,"Denmark","DNK","Colombia","COL",.01754
+2013,"Denmark","DNK","Croatia","HRV",.0122201
+2013,"Denmark","DNK","Denmark","DNK",.3007708
+2013,"Denmark","DNK","European Monetary Union","EMU",.0786753
+2013,"Denmark","DNK","Finland","FIN",.0103166
+2013,"Denmark","DNK","France","FRA",.0146465
+2013,"Denmark","DNK","Germany","DEU",.0267369
+2013,"Denmark","DNK","Hungary","HUN",.0209333
+2013,"Denmark","DNK","Indonesia","IDN",.0265763
+2013,"Denmark","DNK","Italy","ITA",.0092608
+2013,"Denmark","DNK","Malaysia","MYS",.0124868
+2013,"Denmark","DNK","Mexico","MEX",.0498854
+2013,"Denmark","DNK","Peru","PER",.0106791
+2013,"Denmark","DNK","Philippines","PHL",.0146591
+2013,"Denmark","DNK","Poland","POL",.0263595
+2013,"Denmark","DNK","Romania","ROU",.0112291
+2013,"Denmark","DNK","Russian Federation","RUS",.0386541
+2013,"Denmark","DNK","Serbia","SRB",.0081992
+2013,"Denmark","DNK","South Africa","ZAF",.031564
+2013,"Denmark","DNK","Thailand","THA",.0154094
+2013,"Denmark","DNK","Turkey","TUR",.0351645
+2013,"Denmark","DNK","Ukraine","UKR",.0077045
+2013,"Denmark","DNK","United Kingdom","GBR",.0382378
+2013,"Denmark","DNK","United States","USA",.070326
+2013,"Denmark","DNK","Uruguay","URY",.0076606
+2013,"Denmark","DNK","Venezuela, Bolivarian Republic of","VEN",.0130535
+2013,"European Monetary Union","EMU","Australia","AUS",.0038791
+2013,"European Monetary Union","EMU","Austria","AUT",.0183393
+2013,"European Monetary Union","EMU","Belgium","BEL",.0212584
+2013,"European Monetary Union","EMU","Brazil","BRA",.015231
+2013,"European Monetary Union","EMU","Canada","CAN",.0077584
+2013,"European Monetary Union","EMU","Colombia","COL",.0045307
+2013,"European Monetary Union","EMU","Cyprus","CYP",.0000578
+2013,"European Monetary Union","EMU","European Monetary Union","EMU",.6398315
+2013,"European Monetary Union","EMU","Finland","FIN",.0055402
+2013,"European Monetary Union","EMU","France","FRA",.0642606
+2013,"European Monetary Union","EMU","Germany","DEU",.0973806
+2013,"European Monetary Union","EMU","Greece","GRC",.001096
+2013,"European Monetary Union","EMU","Hungary","HUN",.0062006
+2013,"European Monetary Union","EMU","Indonesia","IDN",.0076169
+2013,"European Monetary Union","EMU","Ireland","IRL",.0067108
+2013,"European Monetary Union","EMU","Italy","ITA",.2101866
+2013,"European Monetary Union","EMU","Japan","JPN",.0061558
+2013,"European Monetary Union","EMU","Korea, Republic of","KOR",.0057999
+2013,"European Monetary Union","EMU","Luxembourg","LUX",.0002129
+2013,"European Monetary Union","EMU","Malaysia","MYS",.0061231
+2013,"European Monetary Union","EMU","Malta","MLT",2.24e-06
+2013,"European Monetary Union","EMU","Mexico","MEX",.0196281
+2013,"European Monetary Union","EMU","Netherlands","NLD",.0187963
+2013,"European Monetary Union","EMU","Poland","POL",.0128228
+2013,"European Monetary Union","EMU","Portugal","PRT",.0083153
+2013,"European Monetary Union","EMU","Romania","ROU",.0038279
+2013,"European Monetary Union","EMU","Russian Federation","RUS",.0103055
+2013,"European Monetary Union","EMU","Slovakia","SVK",.0016655
+2013,"European Monetary Union","EMU","Slovenia","SVN",.0030423
+2013,"European Monetary Union","EMU","South Africa","ZAF",.008741
+2013,"European Monetary Union","EMU","Spain","ESP",.1829668
+2013,"European Monetary Union","EMU","Sweden","SWE",.0075833
+2013,"European Monetary Union","EMU","Thailand","THA",.0041266
+2013,"European Monetary Union","EMU","Turkey","TUR",.0107217
+2013,"European Monetary Union","EMU","United Kingdom","GBR",.0319616
+2013,"European Monetary Union","EMU","United States","USA",.1391831
+2013,"Norway","NOR","Austria","AUT",.0174883
+2013,"Norway","NOR","Belgium","BEL",.0168116
+2013,"Norway","NOR","Canada","CAN",.0070323
+2013,"Norway","NOR","European Monetary Union","EMU",.178504
+2013,"Norway","NOR","Finland","FIN",.0255863
+2013,"Norway","NOR","France","FRA",.008306
+2013,"Norway","NOR","Germany","DEU",.0364379
+2013,"Norway","NOR","India","IND",.0122984
+2013,"Norway","NOR","Italy","ITA",.025187
+2013,"Norway","NOR","Japan","JPN",.0330667
+2013,"Norway","NOR","Korea, Republic of","KOR",.0111287
+2013,"Norway","NOR","Mexico","MEX",.0067244
+2013,"Norway","NOR","Norway","NOR",.6486749
+2013,"Norway","NOR","Poland","POL",.0060732
+2013,"Norway","NOR","Portugal","PRT",.0104554
+2013,"Norway","NOR","Slovenia","SVN",.0077556
+2013,"Norway","NOR","Spain","ESP",.0281826
+2013,"Norway","NOR","Sweden","SWE",.0082593
+2013,"Norway","NOR","United Kingdom","GBR",.0166212
+2013,"Norway","NOR","United States","USA",.0587823
+2013,"Sweden","SWE","Belgium","BEL",.0008642
+2013,"Sweden","SWE","European Monetary Union","EMU",.0338824
+2013,"Sweden","SWE","Finland","FIN",.003284
+2013,"Sweden","SWE","France","FRA",.0037723
+2013,"Sweden","SWE","Germany","DEU",.0157738
+2013,"Sweden","SWE","Italy","ITA",.0048826
+2013,"Sweden","SWE","Netherlands","NLD",.0009859
+2013,"Sweden","SWE","Norway","NOR",.0035626
+2013,"Sweden","SWE","Spain","ESP",.0035096
+2013,"Sweden","SWE","Sweden","SWE",.9395405
+2013,"Sweden","SWE","United Kingdom","GBR",.0054996
+2013,"Sweden","SWE","United States","USA",.0140212
+2013,"Switzerland","CHE","Australia","AUS",.0091682
+2013,"Switzerland","CHE","Austria","AUT",.0210762
+2013,"Switzerland","CHE","Belgium","BEL",.0206211
+2013,"Switzerland","CHE","Canada","CAN",.0443426
+2013,"Switzerland","CHE","Denmark","DNK",.0137062
+2013,"Switzerland","CHE","European Monetary Union","EMU",.3085872
+2013,"Switzerland","CHE","France","FRA",.0539321
+2013,"Switzerland","CHE","Germany","DEU",.0866744
+2013,"Switzerland","CHE","Italy","ITA",.0627266
+2013,"Switzerland","CHE","Japan","JPN",.0593513
+2013,"Switzerland","CHE","Korea, Republic of","KOR",.0112398
+2013,"Switzerland","CHE","Netherlands","NLD",.0205943
+2013,"Switzerland","CHE","Poland","POL",.0186552
+2013,"Switzerland","CHE","Singapore","SGP",.0174463
+2013,"Switzerland","CHE","Spain","ESP",.0256045
+2013,"Switzerland","CHE","Sweden","SWE",.00873
+2013,"Switzerland","CHE","Switzerland","CHE",.3123065
+2013,"Switzerland","CHE","United Kingdom","GBR",.036199
+2013,"Switzerland","CHE","United States","USA",.1322819
+2013,"United Kingdom","GBR","Australia","AUS",.0142465
+2013,"United Kingdom","GBR","Belgium","BEL",.0045213
+2013,"United Kingdom","GBR","Brazil","BRA",.0074071
+2013,"United Kingdom","GBR","Canada","CAN",.0088741
+2013,"United Kingdom","GBR","European Monetary Union","EMU",.0868776
+2013,"United Kingdom","GBR","France","FRA",.0094713
+2013,"United Kingdom","GBR","Germany","DEU",.0255572
+2013,"United Kingdom","GBR","Italy","ITA",.0199066
+2013,"United Kingdom","GBR","Japan","JPN",.0141824
+2013,"United Kingdom","GBR","Mexico","MEX",.0117661
+2013,"United Kingdom","GBR","New Zealand","NZL",.0065316
+2013,"United Kingdom","GBR","Norway","NOR",.0144651
+2013,"United Kingdom","GBR","Poland","POL",.0044201
+2013,"United Kingdom","GBR","Portugal","PRT",.0045858
+2013,"United Kingdom","GBR","Russian Federation","RUS",.0076131
+2013,"United Kingdom","GBR","South Africa","ZAF",.0039591
+2013,"United Kingdom","GBR","Spain","ESP",.0114288
+2013,"United Kingdom","GBR","Sweden","SWE",.0067414
+2013,"United Kingdom","GBR","Turkey","TUR",.0050612
+2013,"United Kingdom","GBR","United Kingdom","GBR",.6439202
+2013,"United Kingdom","GBR","United States","USA",.132675
+2013,"United States","USA","Australia","AUS",.0015593
+2013,"United States","USA","Brazil","BRA",.0058759
+2013,"United States","USA","Canada","CAN",.0088873
+2013,"United States","USA","European Monetary Union","EMU",.0266653
+2013,"United States","USA","France","FRA",.0016674
+2013,"United States","USA","Germany","DEU",.0037338
+2013,"United States","USA","Hungary","HUN",.0032574
+2013,"United States","USA","Indonesia","IDN",.0019584
+2013,"United States","USA","Ireland","IRL",.0032622
+2013,"United States","USA","Italy","ITA",.0091138
+2013,"United States","USA","Japan","JPN",.0043361
+2013,"United States","USA","Korea, Republic of","KOR",.0067279
+2013,"United States","USA","Malaysia","MYS",.0028956
+2013,"United States","USA","Mexico","MEX",.0097348
+2013,"United States","USA","Norway","NOR",.001288
+2013,"United States","USA","Philippines","PHL",.0013136
+2013,"United States","USA","Poland","POL",.0047
+2013,"United States","USA","Russian Federation","RUS",.0020388
+2013,"United States","USA","Singapore","SGP",.0015724
+2013,"United States","USA","South Africa","ZAF",.001429
+2013,"United States","USA","Spain","ESP",.0049742
+2013,"United States","USA","Sweden","SWE",.0015462
+2013,"United States","USA","Turkey","TUR",.0020792
+2013,"United States","USA","Ukraine","UKR",.0018039
+2013,"United States","USA","United Kingdom","GBR",.0025568
+2013,"United States","USA","United States","USA",.8953323
+2012,"Australia","AUS","Australia","AUS",.4645919
+2012,"Australia","AUS","Austria","AUT",.0099478
+2012,"Australia","AUS","Brazil","BRA",.0084721
+2012,"Australia","AUS","Canada","CAN",.043125
+2012,"Australia","AUS","European Monetary Union","EMU",.1429696
+2012,"Australia","AUS","Finland","FIN",.0058714
+2012,"Australia","AUS","France","FRA",.01319
+2012,"Australia","AUS","Germany","DEU",.0199037
+2012,"Australia","AUS","Ireland","IRL",.0063866
+2012,"Australia","AUS","Italy","ITA",.0625652
+2012,"Australia","AUS","Japan","JPN",.0561491
+2012,"Australia","AUS","Korea, Republic of","KOR",.0104574
+2012,"Australia","AUS","Mexico","MEX",.0303466
+2012,"Australia","AUS","Netherlands","NLD",.0089204
+2012,"Australia","AUS","New Zealand","NZL",.0070533
+2012,"Australia","AUS","Norway","NOR",.0055067
+2012,"Australia","AUS","Poland","POL",.009557
+2012,"Australia","AUS","Spain","ESP",.0103349
+2012,"Australia","AUS","Sweden","SWE",.0061713
+2012,"Australia","AUS","United Kingdom","GBR",.0265727
+2012,"Australia","AUS","United States","USA",.1548128
+2012,"Canada","CAN","Australia","AUS",.0023531
+2012,"Canada","CAN","Brazil","BRA",.0016908
+2012,"Canada","CAN","Canada","CAN",.9188559
+2012,"Canada","CAN","European Monetary Union","EMU",.0141825
+2012,"Canada","CAN","France","FRA",.0020046
+2012,"Canada","CAN","Germany","DEU",.0042567
+2012,"Canada","CAN","Indonesia","IDN",.0022313
+2012,"Canada","CAN","Ireland","IRL",.0013403
+2012,"Canada","CAN","Italy","ITA",.0035234
+2012,"Canada","CAN","Japan","JPN",.0054658
+2012,"Canada","CAN","Korea, Republic of","KOR",.0024718
+2012,"Canada","CAN","Malaysia","MYS",.0014052
+2012,"Canada","CAN","Mexico","MEX",.00352
+2012,"Canada","CAN","New Zealand","NZL",.0012901
+2012,"Canada","CAN","Norway","NOR",.0014881
+2012,"Canada","CAN","Philippines","PHL",.0018233
+2012,"Canada","CAN","Poland","POL",.0024046
+2012,"Canada","CAN","Russian Federation","RUS",.0011033
+2012,"Canada","CAN","Singapore","SGP",.0012786
+2012,"Canada","CAN","South Africa","ZAF",.0008617
+2012,"Canada","CAN","Sweden","SWE",.0022733
+2012,"Canada","CAN","Turkey","TUR",.0016634
+2012,"Canada","CAN","United Kingdom","GBR",.0043411
+2012,"Canada","CAN","United States","USA",.0199904
+2012,"Denmark","DNK","Argentina","ARG",.0103775
+2012,"Denmark","DNK","Brazil","BRA",.0304827
+2012,"Denmark","DNK","Colombia","COL",.0185911
+2012,"Denmark","DNK","Croatia","HRV",.0092913
+2012,"Denmark","DNK","Denmark","DNK",.2744513
+2012,"Denmark","DNK","European Monetary Union","EMU",.0795953
+2012,"Denmark","DNK","Finland","FIN",.0077057
+2012,"Denmark","DNK","France","FRA",.0190271
+2012,"Denmark","DNK","Germany","DEU",.0259328
+2012,"Denmark","DNK","Hungary","HUN",.0261678
+2012,"Denmark","DNK","Indonesia","IDN",.034453
+2012,"Denmark","DNK","Italy","ITA",.0131837
+2012,"Denmark","DNK","Malaysia","MYS",.01814
+2012,"Denmark","DNK","Mexico","MEX",.0457071
+2012,"Denmark","DNK","Peru","PER",.020134
+2012,"Denmark","DNK","Philippines","PHL",.0198218
+2012,"Denmark","DNK","Poland","POL",.0341535
+2012,"Denmark","DNK","Qatar","QAT",.0077194
+2012,"Denmark","DNK","Romania","ROU",.0119233
+2012,"Denmark","DNK","Russian Federation","RUS",.0386416
+2012,"Denmark","DNK","South Africa","ZAF",.0336005
+2012,"Denmark","DNK","Thailand","THA",.0115642
+2012,"Denmark","DNK","Turkey","TUR",.0489945
+2012,"Denmark","DNK","Ukraine","UKR",.0084457
+2012,"Denmark","DNK","United Kingdom","GBR",.0397744
+2012,"Denmark","DNK","United States","USA",.0606042
+2012,"Denmark","DNK","Venezuela, Bolivarian Republic of","VEN",.0231261
+2012,"European Monetary Union","EMU","Australia","AUS",.0061277
+2012,"European Monetary Union","EMU","Austria","AUT",.0221662
+2012,"European Monetary Union","EMU","Belgium","BEL",.0209164
+2012,"European Monetary Union","EMU","Brazil","BRA",.0116696
+2012,"European Monetary Union","EMU","Canada","CAN",.011756
+2012,"European Monetary Union","EMU","Cyprus","CYP",.0000715
+2012,"European Monetary Union","EMU","European Monetary Union","EMU",.5814387
+2012,"European Monetary Union","EMU","Finland","FIN",.0074006
+2012,"European Monetary Union","EMU","France","FRA",.0699461
+2012,"European Monetary Union","EMU","Germany","DEU",.1097217
+2012,"European Monetary Union","EMU","Greece","GRC",.0005753
+2012,"European Monetary Union","EMU","Hungary","HUN",.0061165
+2012,"European Monetary Union","EMU","Indonesia","IDN",.0100561
+2012,"European Monetary Union","EMU","Ireland","IRL",.003724
+2012,"European Monetary Union","EMU","Italy","ITA",.2031766
+2012,"European Monetary Union","EMU","Japan","JPN",.016189
+2012,"European Monetary Union","EMU","Korea, Republic of","KOR",.0075694
+2012,"European Monetary Union","EMU","Luxembourg","LUX",.000368
+2012,"European Monetary Union","EMU","Malaysia","MYS",.0083627
+2012,"European Monetary Union","EMU","Mexico","MEX",.0215665
+2012,"European Monetary Union","EMU","Netherlands","NLD",.023565
+2012,"European Monetary Union","EMU","Philippines","PHL",.0052175
+2012,"European Monetary Union","EMU","Poland","POL",.0153591
+2012,"European Monetary Union","EMU","Portugal","PRT",.0031128
+2012,"European Monetary Union","EMU","Russian Federation","RUS",.0094782
+2012,"European Monetary Union","EMU","Slovakia","SVK",.0017051
+2012,"European Monetary Union","EMU","Slovenia","SVN",.0010814
+2012,"European Monetary Union","EMU","South Africa","ZAF",.0095535
+2012,"European Monetary Union","EMU","Spain","ESP",.113908
+2012,"European Monetary Union","EMU","Sweden","SWE",.0112137
+2012,"European Monetary Union","EMU","Thailand","THA",.0043368
+2012,"European Monetary Union","EMU","Turkey","TUR",.0152998
+2012,"European Monetary Union","EMU","United Kingdom","GBR",.0302526
+2012,"European Monetary Union","EMU","United States","USA",.1593354
+2012,"European Monetary Union","EMU","Venezuela, Bolivarian Republic of","VEN",.0055373
+2012,"Norway","NOR","Australia","AUS",.0145775
+2012,"Norway","NOR","Austria","AUT",.0071681
+2012,"Norway","NOR","Belgium","BEL",.0168814
+2012,"Norway","NOR","Canada","CAN",.0195676
+2012,"Norway","NOR","European Monetary Union","EMU",.1620173
+2012,"Norway","NOR","Finland","FIN",.0081877
+2012,"Norway","NOR","France","FRA",.0417453
+2012,"Norway","NOR","Germany","DEU",.0479631
+2012,"Norway","NOR","Italy","ITA",.0132209
+2012,"Norway","NOR","Japan","JPN",.0115853
+2012,"Norway","NOR","Korea, Republic of","KOR",.0074983
+2012,"Norway","NOR","Mexico","MEX",.0039675
+2012,"Norway","NOR","Netherlands","NLD",.0110892
+2012,"Norway","NOR","Norway","NOR",.6349106
+2012,"Norway","NOR","Spain","ESP",.0105973
+2012,"Norway","NOR","Sweden","SWE",.0104661
+2012,"Norway","NOR","Switzerland","CHE",.0039406
+2012,"Norway","NOR","United Kingdom","GBR",.0349743
+2012,"Norway","NOR","United States","USA",.0822207
+2012,"Sweden","SWE","Belgium","BEL",.0008979
+2012,"Sweden","SWE","Denmark","DNK",.000862
+2012,"Sweden","SWE","European Monetary Union","EMU",.0314807
+2012,"Sweden","SWE","Finland","FIN",.0067827
+2012,"Sweden","SWE","France","FRA",.006786
+2012,"Sweden","SWE","Germany","DEU",.007483
+2012,"Sweden","SWE","Italy","ITA",.0033093
+2012,"Sweden","SWE","Netherlands","NLD",.0009111
+2012,"Sweden","SWE","Norway","NOR",.0010693
+2012,"Sweden","SWE","Spain","ESP",.0045073
+2012,"Sweden","SWE","Sweden","SWE",.9450822
+2012,"Sweden","SWE","United Kingdom","GBR",.0047034
+2012,"Sweden","SWE","United States","USA",.0126914
+2012,"Switzerland","CHE","Australia","AUS",.0080181
+2012,"Switzerland","CHE","Austria","AUT",.0189728
+2012,"Switzerland","CHE","Belgium","BEL",.02042
+2012,"Switzerland","CHE","Canada","CAN",.0465558
+2012,"Switzerland","CHE","Denmark","DNK",.0101955
+2012,"Switzerland","CHE","European Monetary Union","EMU",.3288549
+2012,"Switzerland","CHE","Finland","FIN",.0072046
+2012,"Switzerland","CHE","France","FRA",.0664385
+2012,"Switzerland","CHE","Germany","DEU",.1002734
+2012,"Switzerland","CHE","Italy","ITA",.0511197
+2012,"Switzerland","CHE","Japan","JPN",.0783856
+2012,"Switzerland","CHE","Korea, Republic of","KOR",.0100923
+2012,"Switzerland","CHE","Netherlands","NLD",.0379363
+2012,"Switzerland","CHE","Poland","POL",.0175504
+2012,"Switzerland","CHE","Spain","ESP",.0203797
+2012,"Switzerland","CHE","Sweden","SWE",.008038
+2012,"Switzerland","CHE","Switzerland","CHE",.2914178
+2012,"Switzerland","CHE","United Kingdom","GBR",.0333172
+2012,"Switzerland","CHE","United States","USA",.143564
+2012,"United Kingdom","GBR","Australia","AUS",.0195764
+2012,"United Kingdom","GBR","Austria","AUT",.0096264
+2012,"United Kingdom","GBR","Brazil","BRA",.0047215
+2012,"United Kingdom","GBR","Canada","CAN",.0109823
+2012,"United Kingdom","GBR","European Monetary Union","EMU",.0926752
+2012,"United Kingdom","GBR","France","FRA",.0117252
+2012,"United Kingdom","GBR","Germany","DEU",.034387
+2012,"United Kingdom","GBR","Italy","ITA",.0152763
+2012,"United Kingdom","GBR","Japan","JPN",.0082924
+2012,"United Kingdom","GBR","Mexico","MEX",.0096348
+2012,"United Kingdom","GBR","New Zealand","NZL",.0075213
+2012,"United Kingdom","GBR","Norway","NOR",.0207514
+2012,"United Kingdom","GBR","Russian Federation","RUS",.0041054
+2012,"United Kingdom","GBR","Singapore","SGP",.0042034
+2012,"United Kingdom","GBR","Spain","ESP",.012431
+2012,"United Kingdom","GBR","Sweden","SWE",.0048637
+2012,"United Kingdom","GBR","Turkey","TUR",.0037952
+2012,"United Kingdom","GBR","United Kingdom","GBR",.6556101
+2012,"United Kingdom","GBR","United States","USA",.1191813
+2012,"United States","USA","Australia","AUS",.0018839
+2012,"United States","USA","Brazil","BRA",.0054382
+2012,"United States","USA","Canada","CAN",.0107698
+2012,"United States","USA","Colombia","COL",.0010176
+2012,"United States","USA","European Monetary Union","EMU",.0215787
+2012,"United States","USA","Germany","DEU",.0027325
+2012,"United States","USA","Hungary","HUN",.0024639
+2012,"United States","USA","Indonesia","IDN",.0025632
+2012,"United States","USA","Ireland","IRL",.0030071
+2012,"United States","USA","Italy","ITA",.0093285
+2012,"United States","USA","Japan","JPN",.0038342
+2012,"United States","USA","Korea, Republic of","KOR",.0051419
+2012,"United States","USA","Malaysia","MYS",.0027969
+2012,"United States","USA","Mexico","MEX",.0097006
+2012,"United States","USA","Norway","NOR",.0014689
+2012,"United States","USA","Peru","PER",.0010288
+2012,"United States","USA","Philippines","PHL",.0013175
+2012,"United States","USA","Poland","POL",.0046183
+2012,"United States","USA","Russian Federation","RUS",.0020067
+2012,"United States","USA","Singapore","SGP",.0011787
+2012,"United States","USA","South Africa","ZAF",.0019494
+2012,"United States","USA","Spain","ESP",.0030824
+2012,"United States","USA","Sweden","SWE",.0014217
+2012,"United States","USA","Turkey","TUR",.002819
+2012,"United States","USA","Ukraine","UKR",.0013487
+2012,"United States","USA","United Kingdom","GBR",.0026155
+2012,"United States","USA","United States","USA",.9006822
+2012,"United States","USA","Venezuela, Bolivarian Republic of","VEN",.0014725
+2011,"Australia","AUS","Australia","AUS",.7010956
+2011,"Australia","AUS","Austria","AUT",.0112897
+2011,"Australia","AUS","Canada","CAN",.0322817
+2011,"Australia","AUS","Denmark","DNK",.0051196
+2011,"Australia","AUS","European Monetary Union","EMU",.0532025
+2011,"Australia","AUS","Finland","FIN",.0036213
+2011,"Australia","AUS","France","FRA",.0046745
+2011,"Australia","AUS","Germany","DEU",.0153752
+2011,"Australia","AUS","Indonesia","IDN",.0043471
+2011,"Australia","AUS","Italy","ITA",.0039063
+2011,"Australia","AUS","Japan","JPN",.0201746
+2011,"Australia","AUS","Korea, Republic of","KOR",.0088959
+2011,"Australia","AUS","Malaysia","MYS",.007968
+2011,"Australia","AUS","Mexico","MEX",.0101499
+2011,"Australia","AUS","Netherlands","NLD",.011689
+2011,"Australia","AUS","New Zealand","NZL",.0034845
+2011,"Australia","AUS","Norway","NOR",.0054995
+2011,"Australia","AUS","Poland","POL",.0100853
+2011,"Australia","AUS","South Africa","ZAF",.0036884
+2011,"Australia","AUS","Sweden","SWE",.0078854
+2011,"Australia","AUS","United Kingdom","GBR",.02516
+2011,"Australia","AUS","United States","USA",.0845327
+2011,"Canada","CAN","Australia","AUS",.0019383
+2011,"Canada","CAN","Brazil","BRA",.001613
+2011,"Canada","CAN","Canada","CAN",.9399325
+2011,"Canada","CAN","European Monetary Union","EMU",.0110216
+2011,"Canada","CAN","France","FRA",.0020175
+2011,"Canada","CAN","Germany","DEU",.0045244
+2011,"Canada","CAN","Indonesia","IDN",.002026
+2011,"Canada","CAN","Ireland","IRL",.0007006
+2011,"Canada","CAN","Italy","ITA",.0013881
+2011,"Canada","CAN","Japan","JPN",.0038231
+2011,"Canada","CAN","Korea, Republic of","KOR",.0018642
+2011,"Canada","CAN","Malaysia","MYS",.0007465
+2011,"Canada","CAN","Mexico","MEX",.0024758
+2011,"Canada","CAN","Netherlands","NLD",.0007423
+2011,"Canada","CAN","New Zealand","NZL",.0008913
+2011,"Canada","CAN","Norway","NOR",.0009647
+2011,"Canada","CAN","Philippines","PHL",.0008764
+2011,"Canada","CAN","Poland","POL",.0014702
+2011,"Canada","CAN","Singapore","SGP",.0008485
+2011,"Canada","CAN","Sweden","SWE",.0019236
+2011,"Canada","CAN","Turkey","TUR",.0006447
+2011,"Canada","CAN","United Kingdom","GBR",.0056921
+2011,"Canada","CAN","United States","USA",.0154743
+2011,"Denmark","DNK","Argentina","ARG",.0168274
+2011,"Denmark","DNK","Brazil","BRA",.0326265
+2011,"Denmark","DNK","Colombia","COL",.0184235
+2011,"Denmark","DNK","Croatia","HRV",.0082107
+2011,"Denmark","DNK","Denmark","DNK",.3512917
+2011,"Denmark","DNK","European Monetary Union","EMU",.0645664
+2011,"Denmark","DNK","France","FRA",.017027
+2011,"Denmark","DNK","Germany","DEU",.0276131
+2011,"Denmark","DNK","Hungary","HUN",.0171316
+2011,"Denmark","DNK","Indonesia","IDN",.0273171
+2011,"Denmark","DNK","Italy","ITA",.0103989
+2011,"Denmark","DNK","Lithuania","LTU",.006721
+2011,"Denmark","DNK","Malaysia","MYS",.0168845
+2011,"Denmark","DNK","Mexico","MEX",.0455659
+2011,"Denmark","DNK","Peru","PER",.0212831
+2011,"Denmark","DNK","Philippines","PHL",.0153845
+2011,"Denmark","DNK","Poland","POL",.0281879
+2011,"Denmark","DNK","Qatar","QAT",.0143629
+2011,"Denmark","DNK","Russian Federation","RUS",.033185
+2011,"Denmark","DNK","South Africa","ZAF",.0288974
+2011,"Denmark","DNK","Thailand","THA",.0097532
+2011,"Denmark","DNK","Turkey","TUR",.0431651
+2011,"Denmark","DNK","United Kingdom","GBR",.0373661
+2011,"Denmark","DNK","United States","USA",.0566422
+2011,"Denmark","DNK","Uruguay","URY",.0105067
+2011,"Denmark","DNK","Venezuela, Bolivarian Republic of","VEN",.0163527
+2011,"European Monetary Union","EMU","Australia","AUS",.0076977
+2011,"European Monetary Union","EMU","Austria","AUT",.0230728
+2011,"European Monetary Union","EMU","Belgium","BEL",.0229971
+2011,"European Monetary Union","EMU","Brazil","BRA",.011097
+2011,"European Monetary Union","EMU","Canada","CAN",.0109403
+2011,"European Monetary Union","EMU","Cyprus","CYP",.000114
+2011,"European Monetary Union","EMU","European Monetary Union","EMU",.6263345
+2011,"European Monetary Union","EMU","Finland","FIN",.0097254
+2011,"European Monetary Union","EMU","France","FRA",.0808432
+2011,"European Monetary Union","EMU","Germany","DEU",.1454043
+2011,"European Monetary Union","EMU","Greece","GRC",.0013003
+2011,"European Monetary Union","EMU","Hungary","HUN",.0041766
+2011,"European Monetary Union","EMU","Indonesia","IDN",.008243
+2011,"European Monetary Union","EMU","Ireland","IRL",.0025122
+2011,"European Monetary Union","EMU","Italy","ITA",.1858329
+2011,"European Monetary Union","EMU","Japan","JPN",.0157493
+2011,"European Monetary Union","EMU","Korea, Republic of","KOR",.0058729
+2011,"European Monetary Union","EMU","Luxembourg","LUX",.0003902
+2011,"European Monetary Union","EMU","Malaysia","MYS",.0068322
+2011,"European Monetary Union","EMU","Mexico","MEX",.0127026
+2011,"European Monetary Union","EMU","Netherlands","NLD",.0276233
+2011,"European Monetary Union","EMU","Philippines","PHL",.003905
+2011,"European Monetary Union","EMU","Poland","POL",.0111719
+2011,"European Monetary Union","EMU","Portugal","PRT",.0028807
+2011,"European Monetary Union","EMU","Russian Federation","RUS",.0044295
+2011,"European Monetary Union","EMU","Slovakia","SVK",.000974
+2011,"European Monetary Union","EMU","Slovenia","SVN",.0008175
+2011,"European Monetary Union","EMU","South Africa","ZAF",.0073067
+2011,"European Monetary Union","EMU","Spain","ESP",.1218465
+2011,"European Monetary Union","EMU","Sweden","SWE",.0089701
+2011,"European Monetary Union","EMU","Turkey","TUR",.0093272
+2011,"European Monetary Union","EMU","United Kingdom","GBR",.0319072
+2011,"European Monetary Union","EMU","United States","USA",.1653683
+2011,"Norway","NOR","Belgium","BEL",.0296099
+2011,"Norway","NOR","Canada","CAN",.0169146
+2011,"Norway","NOR","Denmark","DNK",.0049066
+2011,"Norway","NOR","European Monetary Union","EMU",.2318941
+2011,"Norway","NOR","Finland","FIN",.0188798
+2011,"Norway","NOR","France","FRA",.0354084
+2011,"Norway","NOR","Germany","DEU",.0416621
+2011,"Norway","NOR","Italy","ITA",.0508996
+2011,"Norway","NOR","Japan","JPN",.0149007
+2011,"Norway","NOR","Netherlands","NLD",.0104338
+2011,"Norway","NOR","Norway","NOR",.5109594
+2011,"Norway","NOR","Poland","POL",.0058451
+2011,"Norway","NOR","Spain","ESP",.039356
+2011,"Norway","NOR","Sweden","SWE",.013349
+2011,"Norway","NOR","United Kingdom","GBR",.0403824
+2011,"Norway","NOR","United States","USA",.1483582
+2011,"Sweden","SWE","Austria","AUT",.0018041
+2011,"Sweden","SWE","Belgium","BEL",.0012279
+2011,"Sweden","SWE","Denmark","DNK",.0032023
+2011,"Sweden","SWE","European Monetary Union","EMU",.0285317
+2011,"Sweden","SWE","Finland","FIN",.0019466
+2011,"Sweden","SWE","France","FRA",.0066743
+2011,"Sweden","SWE","Germany","DEU",.0061885
+2011,"Sweden","SWE","Italy","ITA",.0056421
+2011,"Sweden","SWE","Netherlands","NLD",.0014308
+2011,"Sweden","SWE","Norway","NOR",.0007436
+2011,"Sweden","SWE","Spain","ESP",.0028277
+2011,"Sweden","SWE","Sweden","SWE",.9370694
+2011,"Sweden","SWE","United Kingdom","GBR",.003302
+2011,"Sweden","SWE","United States","USA",.0230354
+2011,"Switzerland","CHE","Austria","AUT",.022149
+2011,"Switzerland","CHE","Belgium","BEL",.0171232
+2011,"Switzerland","CHE","Canada","CAN",.0523962
+2011,"Switzerland","CHE","Denmark","DNK",.0082724
+2011,"Switzerland","CHE","European Monetary Union","EMU",.3081425
+2011,"Switzerland","CHE","Finland","FIN",.0137578
+2011,"Switzerland","CHE","France","FRA",.0613522
+2011,"Switzerland","CHE","Germany","DEU",.0978364
+2011,"Switzerland","CHE","Italy","ITA",.0394437
+2011,"Switzerland","CHE","Japan","JPN",.0670023
+2011,"Switzerland","CHE","Korea, Republic of","KOR",.0094853
+2011,"Switzerland","CHE","Netherlands","NLD",.0328887
+2011,"Switzerland","CHE","Poland","POL",.013306
+2011,"Switzerland","CHE","Spain","ESP",.0181886
+2011,"Switzerland","CHE","Sweden","SWE",.0088346
+2011,"Switzerland","CHE","Switzerland","CHE",.3822845
+2011,"Switzerland","CHE","United Kingdom","GBR",.0301245
+2011,"Switzerland","CHE","United States","USA",.1024738
+2011,"United Kingdom","GBR","Australia","AUS",.014532
+2011,"United Kingdom","GBR","Brazil","BRA",.0073795
+2011,"United Kingdom","GBR","Canada","CAN",.0106667
+2011,"United Kingdom","GBR","European Monetary Union","EMU",.0514825
+2011,"United Kingdom","GBR","France","FRA",.0083281
+2011,"United Kingdom","GBR","Germany","DEU",.0245532
+2011,"United Kingdom","GBR","Hungary","HUN",.0029682
+2011,"United Kingdom","GBR","Indonesia","IDN",.0037449
+2011,"United Kingdom","GBR","Italy","ITA",.0052142
+2011,"United Kingdom","GBR","Japan","JPN",.0078991
+2011,"United Kingdom","GBR","Malaysia","MYS",.0060521
+2011,"United Kingdom","GBR","Mexico","MEX",.008509
+2011,"United Kingdom","GBR","Netherlands","NLD",.0037319
+2011,"United Kingdom","GBR","Norway","NOR",.0193243
+2011,"United Kingdom","GBR","Poland","POL",.0043288
+2011,"United Kingdom","GBR","Russian Federation","RUS",.004074
+2011,"United Kingdom","GBR","South Africa","ZAF",.0050078
+2011,"United Kingdom","GBR","Sweden","SWE",.0033939
+2011,"United Kingdom","GBR","Turkey","TUR",.0067484
+2011,"United Kingdom","GBR","United Kingdom","GBR",.703223
+2011,"United Kingdom","GBR","United States","USA",.1202559
+2011,"United States","USA","Australia","AUS",.0026628
+2011,"United States","USA","Brazil","BRA",.0056101
+2011,"United States","USA","Canada","CAN",.0109028
+2011,"United States","USA","Colombia","COL",.0009719
+2011,"United States","USA","European Monetary Union","EMU",.0084122
+2011,"United States","USA","Germany","DEU",.0029107
+2011,"United States","USA","Hungary","HUN",.0019074
+2011,"United States","USA","Indonesia","IDN",.0025738
+2011,"United States","USA","Ireland","IRL",.0015802
+2011,"United States","USA","Israel","ISR",.0011039
+2011,"United States","USA","Italy","ITA",.0013578
+2011,"United States","USA","Japan","JPN",.0039091
+2011,"United States","USA","Korea, Republic of","KOR",.0050164
+2011,"United States","USA","Malaysia","MYS",.0023332
+2011,"United States","USA","Mexico","MEX",.0054876
+2011,"United States","USA","Norway","NOR",.0013271
+2011,"United States","USA","Philippines","PHL",.0011969
+2011,"United States","USA","Poland","POL",.0041157
+2011,"United States","USA","Russian Federation","RUS",.0014396
+2011,"United States","USA","Singapore","SGP",.001352
+2011,"United States","USA","South Africa","ZAF",.0018132
+2011,"United States","USA","Sweden","SWE",.0013256
+2011,"United States","USA","Turkey","TUR",.0018871
+2011,"United States","USA","United Kingdom","GBR",.0044715
+2011,"United States","USA","United States","USA",.9210178
+2011,"United States","USA","Venezuela, Bolivarian Republic of","VEN",.0009094
+2010,"Australia","AUS","Australia","AUS",.3620421
+2010,"Australia","AUS","Brazil","BRA",.0142548
+2010,"Australia","AUS","Canada","CAN",.0452539
+2010,"Australia","AUS","European Monetary Union","EMU",.1088584
+2010,"Australia","AUS","France","FRA",.0121653
+2010,"Australia","AUS","Germany","DEU",.0481887
+2010,"Australia","AUS","Italy","ITA",.0193484
+2010,"Australia","AUS","Japan","JPN",.0520277
+2010,"Australia","AUS","Korea, Republic of","KOR",.0115309
+2010,"Australia","AUS","Mexico","MEX",.0072798
+2010,"Australia","AUS","Netherlands","NLD",.0150885
+2010,"Australia","AUS","Poland","POL",.0076655
+2010,"Australia","AUS","Sweden","SWE",.0065845
+2010,"Australia","AUS","United Kingdom","GBR",.0753106
+2010,"Australia","AUS","United States","USA",.2745292
+2010,"Canada","CAN","Australia","AUS",.0009355
+2010,"Canada","CAN","Belgium","BEL",.0008409
+2010,"Canada","CAN","Brazil","BRA",.0011449
+2010,"Canada","CAN","Canada","CAN",.9403551
+2010,"Canada","CAN","European Monetary Union","EMU",.0139905
+2010,"Canada","CAN","France","FRA",.0023808
+2010,"Canada","CAN","Germany","DEU",.0047154
+2010,"Canada","CAN","Indonesia","IDN",.0010313
+2010,"Canada","CAN","Italy","ITA",.0035681
+2010,"Canada","CAN","Japan","JPN",.0054052
+2010,"Canada","CAN","Korea, Republic of","KOR",.0009715
+2010,"Canada","CAN","Mexico","MEX",.0012229
+2010,"Canada","CAN","Netherlands","NLD",.0006193
+2010,"Canada","CAN","Poland","POL",.0007931
+2010,"Canada","CAN","Spain","ESP",.0008322
+2010,"Canada","CAN","Sweden","SWE",.0012648
+2010,"Canada","CAN","United Kingdom","GBR",.0044619
+2010,"Canada","CAN","United States","USA",.0223195
+2010,"Denmark","DNK","Argentina","ARG",.0249504
+2010,"Denmark","DNK","Brazil","BRA",.0366395
+2010,"Denmark","DNK","Colombia","COL",.0169529
+2010,"Denmark","DNK","Denmark","DNK",.3492877
+2010,"Denmark","DNK","European Monetary Union","EMU",.0730892
+2010,"Denmark","DNK","France","FRA",.0160666
+2010,"Denmark","DNK","Germany","DEU",.0238044
+2010,"Denmark","DNK","Greece","GRC",.0069
+2010,"Denmark","DNK","Hungary","HUN",.0154716
+2010,"Denmark","DNK","Indonesia","IDN",.0306622
+2010,"Denmark","DNK","Ireland","IRL",.0077794
+2010,"Denmark","DNK","Italy","ITA",.0166876
+2010,"Denmark","DNK","Japan","JPN",.0102761
+2010,"Denmark","DNK","Malaysia","MYS",.0152768
+2010,"Denmark","DNK","Mexico","MEX",.0486312
+2010,"Denmark","DNK","Peru","PER",.020337
+2010,"Denmark","DNK","Philippines","PHL",.0193065
+2010,"Denmark","DNK","Poland","POL",.0269833
+2010,"Denmark","DNK","Qatar","QAT",.0074303
+2010,"Denmark","DNK","Russian Federation","RUS",.0253295
+2010,"Denmark","DNK","South Africa","ZAF",.0245686
+2010,"Denmark","DNK","Thailand","THA",.0123163
+2010,"Denmark","DNK","Turkey","TUR",.038894
+2010,"Denmark","DNK","Ukraine","UKR",.007485
+2010,"Denmark","DNK","United Kingdom","GBR",.0347226
+2010,"Denmark","DNK","United States","USA",.0606252
+2010,"Denmark","DNK","Uruguay","URY",.0113653
+2010,"Denmark","DNK","Venezuela, Bolivarian Republic of","VEN",.0138086
+2010,"European Monetary Union","EMU","Argentina","ARG",.004068
+2010,"European Monetary Union","EMU","Australia","AUS",.0042659
+2010,"European Monetary Union","EMU","Austria","AUT",.0249144
+2010,"European Monetary Union","EMU","Belgium","BEL",.0243225
+2010,"European Monetary Union","EMU","Brazil","BRA",.0134871
+2010,"European Monetary Union","EMU","Canada","CAN",.0080894
+2010,"European Monetary Union","EMU","Colombia","COL",.0037431
+2010,"European Monetary Union","EMU","Cyprus","CYP",.0002416
+2010,"European Monetary Union","EMU","Czech Republic","CZE",.0031365
+2010,"European Monetary Union","EMU","European Monetary Union","EMU",.691744
+2010,"European Monetary Union","EMU","Finland","FIN",.0093281
+2010,"European Monetary Union","EMU","France","FRA",.087947
+2010,"European Monetary Union","EMU","Germany","DEU",.1535302
+2010,"European Monetary Union","EMU","Greece","GRC",.0091996
+2010,"European Monetary Union","EMU","Hungary","HUN",.0061586
+2010,"European Monetary Union","EMU","Indonesia","IDN",.0065681
+2010,"European Monetary Union","EMU","Ireland","IRL",.0059501
+2010,"European Monetary Union","EMU","Italy","ITA",.2380717
+2010,"European Monetary Union","EMU","Japan","JPN",.0113586
+2010,"European Monetary Union","EMU","Korea, Republic of","KOR",.0052985
+2010,"European Monetary Union","EMU","Luxembourg","LUX",.0003082
+2010,"European Monetary Union","EMU","Malaysia","MYS",.0044277
+2010,"European Monetary Union","EMU","Mexico","MEX",.0122179
+2010,"European Monetary Union","EMU","Netherlands","NLD",.0294638
+2010,"European Monetary Union","EMU","Philippines","PHL",.0032773
+2010,"European Monetary Union","EMU","Poland","POL",.0134497
+2010,"European Monetary Union","EMU","Portugal","PRT",.0078285
+2010,"European Monetary Union","EMU","Russian Federation","RUS",.0042008
+2010,"European Monetary Union","EMU","Slovakia","SVK",.0012775
+2010,"European Monetary Union","EMU","Slovenia","SVN",.0013284
+2010,"European Monetary Union","EMU","South Africa","ZAF",.0076196
+2010,"European Monetary Union","EMU","Spain","ESP",.0980326
+2010,"European Monetary Union","EMU","Sweden","SWE",.0089087
+2010,"European Monetary Union","EMU","Turkey","TUR",.0097917
+2010,"European Monetary Union","EMU","United Kingdom","GBR",.0192287
+2010,"European Monetary Union","EMU","United States","USA",.126704
+2010,"Norway","NOR","Austria","AUT",.00345
+2010,"Norway","NOR","Belgium","BEL",.0103808
+2010,"Norway","NOR","Canada","CAN",.0069958
+2010,"Norway","NOR","Denmark","DNK",.0103722
+2010,"Norway","NOR","European Monetary Union","EMU",.103735
+2010,"Norway","NOR","Finland","FIN",.0337424
+2010,"Norway","NOR","France","FRA",.0028125
+2010,"Norway","NOR","Germany","DEU",.0181576
+2010,"Norway","NOR","Greece","GRC",.0055124
+2010,"Norway","NOR","Italy","ITA",.0226454
+2010,"Norway","NOR","Japan","JPN",.0308198
+2010,"Norway","NOR","Mexico","MEX",.0050664
+2010,"Norway","NOR","Norway","NOR",.7634992
+2010,"Norway","NOR","Poland","POL",.0033705
+2010,"Norway","NOR","South Africa","ZAF",.0050243
+2010,"Norway","NOR","Spain","ESP",.0043804
+2010,"Norway","NOR","Sweden","SWE",.0114449
+2010,"Norway","NOR","Switzerland","CHE",.0038153
+2010,"Norway","NOR","United Kingdom","GBR",.0126061
+2010,"Norway","NOR","United States","USA",.0317827
+2010,"Sweden","SWE","Austria","AUT",.0012104
+2010,"Sweden","SWE","Belgium","BEL",.0012939
+2010,"Sweden","SWE","Denmark","DNK",.0013723
+2010,"Sweden","SWE","European Monetary Union","EMU",.0377259
+2010,"Sweden","SWE","Finland","FIN",.0024325
+2010,"Sweden","SWE","France","FRA",.0053132
+2010,"Sweden","SWE","Germany","DEU",.0121574
+2010,"Sweden","SWE","Greece","GRC",.0016103
+2010,"Sweden","SWE","Ireland","IRL",.0033615
+2010,"Sweden","SWE","Italy","ITA",.0061748
+2010,"Sweden","SWE","Netherlands","NLD",.0010869
+2010,"Sweden","SWE","Spain","ESP",.0025236
+2010,"Sweden","SWE","Sweden","SWE",.9338324
+2010,"Sweden","SWE","United Kingdom","GBR",.0030742
+2010,"Sweden","SWE","United States","USA",.0236084
+2010,"Switzerland","CHE","Austria","AUT",.0272996
+2010,"Switzerland","CHE","Belgium","BEL",.0184834
+2010,"Switzerland","CHE","Canada","CAN",.0459318
+2010,"Switzerland","CHE","Denmark","DNK",.0080337
+2010,"Switzerland","CHE","European Monetary Union","EMU",.3325223
+2010,"Switzerland","CHE","Finland","FIN",.0134667
+2010,"Switzerland","CHE","France","FRA",.0761703
+2010,"Switzerland","CHE","Germany","DEU",.086867
+2010,"Switzerland","CHE","Italy","ITA",.0463471
+2010,"Switzerland","CHE","Japan","JPN",.0524694
+2010,"Switzerland","CHE","Korea, Republic of","KOR",.0108891
+2010,"Switzerland","CHE","Netherlands","NLD",.0364825
+2010,"Switzerland","CHE","Poland","POL",.014396
+2010,"Switzerland","CHE","Spain","ESP",.0177912
+2010,"Switzerland","CHE","Sweden","SWE",.0085297
+2010,"Switzerland","CHE","Switzerland","CHE",.3863236
+2010,"Switzerland","CHE","United Kingdom","GBR",.0281809
+2010,"Switzerland","CHE","United States","USA",.0989297
+2010,"United Kingdom","GBR","Australia","AUS",.0087758
+2010,"United Kingdom","GBR","Belgium","BEL",.005561
+2010,"United Kingdom","GBR","Brazil","BRA",.0117475
+2010,"United Kingdom","GBR","Canada","CAN",.008834
+2010,"United Kingdom","GBR","European Monetary Union","EMU",.0727492
+2010,"United Kingdom","GBR","France","FRA",.0077603
+2010,"United Kingdom","GBR","Germany","DEU",.027587
+2010,"United Kingdom","GBR","Hungary","HUN",.0049134
+2010,"United Kingdom","GBR","Italy","ITA",.0181822
+2010,"United Kingdom","GBR","Japan","JPN",.0221562
+2010,"United Kingdom","GBR","Malaysia","MYS",.0082892
+2010,"United Kingdom","GBR","Mexico","MEX",.0118987
+2010,"United Kingdom","GBR","Norway","NOR",.018692
+2010,"United Kingdom","GBR","Poland","POL",.0095098
+2010,"United Kingdom","GBR","Portugal","PRT",.0051346
+2010,"United Kingdom","GBR","South Africa","ZAF",.0109825
+2010,"United Kingdom","GBR","Turkey","TUR",.0063549
+2010,"United Kingdom","GBR","United Kingdom","GBR",.6338837
+2010,"United Kingdom","GBR","United States","USA",.1361802
+2010,"United States","USA","Argentina","ARG",.001152
+2010,"United States","USA","Australia","AUS",.0019064
+2010,"United States","USA","Brazil","BRA",.0048225
+2010,"United States","USA","Canada","CAN",.0089841
+2010,"United States","USA","Colombia","COL",.0007364
+2010,"United States","USA","Egypt","EGY",.001138
+2010,"United States","USA","European Monetary Union","EMU",.0071934
+2010,"United States","USA","France","FRA",.0011226
+2010,"United States","USA","Germany","DEU",.002675
+2010,"United States","USA","Hungary","HUN",.0007266
+2010,"United States","USA","Indonesia","IDN",.0022191
+2010,"United States","USA","Israel","ISR",.0013607
+2010,"United States","USA","Italy","ITA",.0013499
+2010,"United States","USA","Japan","JPN",.0031543
+2010,"United States","USA","Korea, Republic of","KOR",.0034853
+2010,"United States","USA","Malaysia","MYS",.0019399
+2010,"United States","USA","Mexico","MEX",.0040672
+2010,"United States","USA","Norway","NOR",.0017138
+2010,"United States","USA","Philippines","PHL",.0008032
+2010,"United States","USA","Poland","POL",.0029909
+2010,"United States","USA","Russian Federation","RUS",.0014904
+2010,"United States","USA","South Africa","ZAF",.0014645
+2010,"United States","USA","Sweden","SWE",.0011716
+2010,"United States","USA","Turkey","TUR",.0014656
+2010,"United States","USA","United Kingdom","GBR",.0020726
+2010,"United States","USA","United States","USA",.9363974
+2010,"United States","USA","Venezuela, Bolivarian Republic of","VEN",.0009567
+2009,"Australia","AUS","Australia","AUS",.4583414
+2009,"Australia","AUS","Belgium","BEL",.0203751
+2009,"Australia","AUS","Brazil","BRA",.0057236
+2009,"Australia","AUS","Canada","CAN",.03248
+2009,"Australia","AUS","Denmark","DNK",.0057964
+2009,"Australia","AUS","European Monetary Union","EMU",.1763347
+2009,"Australia","AUS","France","FRA",.0431526
+2009,"Australia","AUS","Germany","DEU",.0549121
+2009,"Australia","AUS","Indonesia","IDN",.0072974
+2009,"Australia","AUS","Italy","ITA",.0153037
+2009,"Australia","AUS","Japan","JPN",.0489621
+2009,"Australia","AUS","Korea, Republic of","KOR",.0124153
+2009,"Australia","AUS","Mexico","MEX",.0079167
+2009,"Australia","AUS","Netherlands","NLD",.0277354
+2009,"Australia","AUS","Poland","POL",.0056478
+2009,"Australia","AUS","Spain","ESP",.006106
+2009,"Australia","AUS","Sweden","SWE",.0063976
+2009,"Australia","AUS","United Kingdom","GBR",.0294068
+2009,"Australia","AUS","United States","USA",.1730348
+2009,"Canada","CAN","Australia","AUS",.0012221
+2009,"Canada","CAN","Brazil","BRA",.001473
+2009,"Canada","CAN","Canada","CAN",.9520227
+2009,"Canada","CAN","European Monetary Union","EMU",.0129667
+2009,"Canada","CAN","France","FRA",.0034718
+2009,"Canada","CAN","Germany","DEU",.0047111
+2009,"Canada","CAN","Greece","GRC",.0005037
+2009,"Canada","CAN","Indonesia","IDN",.0007749
+2009,"Canada","CAN","Italy","ITA",.0025183
+2009,"Canada","CAN","Japan","JPN",.0039524
+2009,"Canada","CAN","Netherlands","NLD",.00071
+2009,"Canada","CAN","Philippines","PHL",.0005509
+2009,"Canada","CAN","Russian Federation","RUS",.000513
+2009,"Canada","CAN","Spain","ESP",.0005053
+2009,"Canada","CAN","Sweden","SWE",.000572
+2009,"Canada","CAN","Turkey","TUR",.0007068
+2009,"Canada","CAN","United Kingdom","GBR",.0043586
+2009,"Canada","CAN","United States","USA",.0165195
+2009,"Denmark","DNK","Argentina","ARG",.0263487
+2009,"Denmark","DNK","Brazil","BRA",.0505367
+2009,"Denmark","DNK","Colombia","COL",.0239382
+2009,"Denmark","DNK","Denmark","DNK",.2393063
+2009,"Denmark","DNK","European Monetary Union","EMU",.0999538
+2009,"Denmark","DNK","France","FRA",.0220843
+2009,"Denmark","DNK","Germany","DEU",.0202388
+2009,"Denmark","DNK","Hungary","HUN",.0132553
+2009,"Denmark","DNK","Indonesia","IDN",.0340972
+2009,"Denmark","DNK","Ireland","IRL",.0299358
+2009,"Denmark","DNK","Italy","ITA",.0197032
+2009,"Denmark","DNK","Japan","JPN",.0110959
+2009,"Denmark","DNK","Korea, Republic of","KOR",.0127636
+2009,"Denmark","DNK","Mexico","MEX",.0521336
+2009,"Denmark","DNK","Panama","PAN",.0167742
+2009,"Denmark","DNK","Peru","PER",.027647
+2009,"Denmark","DNK","Philippines","PHL",.02368
+2009,"Denmark","DNK","Poland","POL",.0269706
+2009,"Denmark","DNK","Qatar","QAT",.0124456
+2009,"Denmark","DNK","Russian Federation","RUS",.0468303
+2009,"Denmark","DNK","South Africa","ZAF",.0177142
+2009,"Denmark","DNK","Sweden","SWE",.0080806
+2009,"Denmark","DNK","Turkey","TUR",.0423051
+2009,"Denmark","DNK","United Kingdom","GBR",.0377094
+2009,"Denmark","DNK","United States","USA",.0609734
+2009,"Denmark","DNK","Uruguay","URY",.017202
+2009,"Denmark","DNK","Venezuela, Bolivarian Republic of","VEN",.0253754
+2009,"European Monetary Union","EMU","Austria","AUT",.0234032
+2009,"European Monetary Union","EMU","Belgium","BEL",.0276623
+2009,"European Monetary Union","EMU","Brazil","BRA",.0068352
+2009,"European Monetary Union","EMU","Canada","CAN",.0064758
+2009,"European Monetary Union","EMU","Cyprus","CYP",.0000935
+2009,"European Monetary Union","EMU","Czech Republic","CZE",.0029699
+2009,"European Monetary Union","EMU","Denmark","DNK",.0023432
+2009,"European Monetary Union","EMU","European Monetary Union","EMU",.7895854
+2009,"European Monetary Union","EMU","Finland","FIN",.0103626
+2009,"European Monetary Union","EMU","France","FRA",.1228267
+2009,"European Monetary Union","EMU","Germany","DEU",.1281172
+2009,"European Monetary Union","EMU","Greece","GRC",.0335104
+2009,"European Monetary Union","EMU","Hungary","HUN",.0053427
+2009,"European Monetary Union","EMU","Indonesia","IDN",.0029652
+2009,"European Monetary Union","EMU","Ireland","IRL",.0106527
+2009,"European Monetary Union","EMU","Italy","ITA",.3075077
+2009,"European Monetary Union","EMU","Japan","JPN",.014994
+2009,"European Monetary Union","EMU","Korea, Republic of","KOR",.0023622
+2009,"European Monetary Union","EMU","Luxembourg","LUX",.0000518
+2009,"European Monetary Union","EMU","Mexico","MEX",.0042317
+2009,"European Monetary Union","EMU","Netherlands","NLD",.0294524
+2009,"European Monetary Union","EMU","Poland","POL",.0083613
+2009,"European Monetary Union","EMU","Portugal","PRT",.0106724
+2009,"European Monetary Union","EMU","Russian Federation","RUS",.0029565
+2009,"European Monetary Union","EMU","Slovakia","SVK",.001045
+2009,"European Monetary Union","EMU","Slovenia","SVN",.0012085
+2009,"European Monetary Union","EMU","Spain","ESP",.083019
+2009,"European Monetary Union","EMU","Sweden","SWE",.0085553
+2009,"European Monetary Union","EMU","Turkey","TUR",.0041865
+2009,"European Monetary Union","EMU","United Kingdom","GBR",.0196923
+2009,"European Monetary Union","EMU","United States","USA",.0931195
+2009,"Norway","NOR","Belgium","BEL",.006055
+2009,"Norway","NOR","Canada","CAN",.0122923
+2009,"Norway","NOR","Denmark","DNK",.0068799
+2009,"Norway","NOR","European Monetary Union","EMU",.1111891
+2009,"Norway","NOR","Finland","FIN",.01729
+2009,"Norway","NOR","France","FRA",.0127304
+2009,"Norway","NOR","Germany","DEU",.0227485
+2009,"Norway","NOR","Greece","GRC",.0058736
+2009,"Norway","NOR","Hungary","HUN",.0063501
+2009,"Norway","NOR","Italy","ITA",.0366635
+2009,"Norway","NOR","Japan","JPN",.0258417
+2009,"Norway","NOR","Mexico","MEX",.0065526
+2009,"Norway","NOR","Norway","NOR",.7325732
+2009,"Norway","NOR","Poland","POL",.0040703
+2009,"Norway","NOR","South Africa","ZAF",.004637
+2009,"Norway","NOR","Spain","ESP",.0056529
+2009,"Norway","NOR","Sweden","SWE",.0148381
+2009,"Norway","NOR","United Kingdom","GBR",.0121677
+2009,"Norway","NOR","United States","USA",.050853
+2009,"Sweden","SWE","Belgium","BEL",.0015323
+2009,"Sweden","SWE","Canada","CAN",.0014763
+2009,"Sweden","SWE","European Monetary Union","EMU",.0177094
+2009,"Sweden","SWE","Finland","FIN",.0014002
+2009,"Sweden","SWE","France","FRA",.0038981
+2009,"Sweden","SWE","Germany","DEU",.0051996
+2009,"Sweden","SWE","Italy","ITA",.0033446
+2009,"Sweden","SWE","Spain","ESP",.0008805
+2009,"Sweden","SWE","Sweden","SWE",.92499
+2009,"Sweden","SWE","United Kingdom","GBR",.0171779
+2009,"Sweden","SWE","United States","USA",.0383763
+2009,"Switzerland","CHE","Austria","AUT",.0358812
+2009,"Switzerland","CHE","Belgium","BEL",.0190264
+2009,"Switzerland","CHE","Canada","CAN",.0284512
+2009,"Switzerland","CHE","Denmark","DNK",.0075989
+2009,"Switzerland","CHE","European Monetary Union","EMU",.5231209
+2009,"Switzerland","CHE","Finland","FIN",.0212611
+2009,"Switzerland","CHE","France","FRA",.1661199
+2009,"Switzerland","CHE","Germany","DEU",.1093493
+2009,"Switzerland","CHE","Greece","GRC",.0121811
+2009,"Switzerland","CHE","Ireland","IRL",.0082129
+2009,"Switzerland","CHE","Italy","ITA",.0219865
+2009,"Switzerland","CHE","Japan","JPN",.016423
+2009,"Switzerland","CHE","Korea, Republic of","KOR",.0068548
+2009,"Switzerland","CHE","Netherlands","NLD",.0656432
+2009,"Switzerland","CHE","Poland","POL",.0090676
+2009,"Switzerland","CHE","Portugal","PRT",.0131785
+2009,"Switzerland","CHE","Spain","ESP",.0489966
+2009,"Switzerland","CHE","Switzerland","CHE",.3206102
+2009,"Switzerland","CHE","United Kingdom","GBR",.0208602
+2009,"Switzerland","CHE","United States","USA",.0547152
+2009,"United Kingdom","GBR","Australia","AUS",.0091153
+2009,"United Kingdom","GBR","Brazil","BRA",.0073327
+2009,"United Kingdom","GBR","Canada","CAN",.0079499
+2009,"United Kingdom","GBR","European Monetary Union","EMU",.0839366
+2009,"United Kingdom","GBR","France","FRA",.0146208
+2009,"United Kingdom","GBR","Germany","DEU",.033223
+2009,"United Kingdom","GBR","Hungary","HUN",.0076596
+2009,"United Kingdom","GBR","Ireland","IRL",.0057369
+2009,"United Kingdom","GBR","Italy","ITA",.0172223
+2009,"United Kingdom","GBR","Japan","JPN",.0190615
+2009,"United Kingdom","GBR","Mexico","MEX",.0070949
+2009,"United Kingdom","GBR","Netherlands","NLD",.0031785
+2009,"United Kingdom","GBR","Norway","NOR",.0135266
+2009,"United Kingdom","GBR","Poland","POL",.0045867
+2009,"United Kingdom","GBR","South Africa","ZAF",.0033424
+2009,"United Kingdom","GBR","Sweden","SWE",.0038428
+2009,"United Kingdom","GBR","Turkey","TUR",.0043122
+2009,"United Kingdom","GBR","United Kingdom","GBR",.70206
+2009,"United Kingdom","GBR","United States","USA",.1017627
+2009,"United States","USA","Argentina","ARG",.0008535
+2009,"United States","USA","Australia","AUS",.0013627
+2009,"United States","USA","Brazil","BRA",.0041415
+2009,"United States","USA","Canada","CAN",.0058938
+2009,"United States","USA","European Monetary Union","EMU",.0088179
+2009,"United States","USA","France","FRA",.0020417
+2009,"United States","USA","Germany","DEU",.0028767
+2009,"United States","USA","Indonesia","IDN",.0016761
+2009,"United States","USA","Israel","ISR",.0007219
+2009,"United States","USA","Italy","ITA",.0017182
+2009,"United States","USA","Japan","JPN",.0024885
+2009,"United States","USA","Korea, Republic of","KOR",.0031203
+2009,"United States","USA","Malaysia","MYS",.0008218
+2009,"United States","USA","Mexico","MEX",.0027671
+2009,"United States","USA","Netherlands","NLD",.0007018
+2009,"United States","USA","Norway","NOR",.0012374
+2009,"United States","USA","Peru","PER",.0004811
+2009,"United States","USA","Poland","POL",.0019823
+2009,"United States","USA","Russian Federation","RUS",.0011664
+2009,"United States","USA","South Africa","ZAF",.0006091
+2009,"United States","USA","Sweden","SWE",.0015843
+2009,"United States","USA","Turkey","TUR",.0008273
+2009,"United States","USA","United Kingdom","GBR",.0012155
+2009,"United States","USA","United States","USA",.9525188
+2009,"United States","USA","Venezuela, Bolivarian Republic of","VEN",.0006978
+2008,"Canada","CAN","Austria","AUT",.0005256
+2008,"Canada","CAN","Brazil","BRA",.0011683
+2008,"Canada","CAN","Canada","CAN",.9477644
+2008,"Canada","CAN","European Monetary Union","EMU",.0156598
+2008,"Canada","CAN","France","FRA",.0039645
+2008,"Canada","CAN","Germany","DEU",.0072619
+2008,"Canada","CAN","Indonesia","IDN",.0005487
+2008,"Canada","CAN","Italy","ITA",.0013236
+2008,"Canada","CAN","Japan","JPN",.0036191
+2008,"Canada","CAN","Mexico","MEX",.0008041
+2008,"Canada","CAN","Netherlands","NLD",.0011377
+2008,"Canada","CAN","Poland","POL",.0006348
+2008,"Canada","CAN","Russian Federation","RUS",.0005258
+2008,"Canada","CAN","Spain","ESP",.0010074
+2008,"Canada","CAN","United Kingdom","GBR",.0051126
+2008,"Canada","CAN","United States","USA",.0192043
+2008,"Denmark","DNK","Argentina","ARG",.0156632
+2008,"Denmark","DNK","Brazil","BRA",.0723644
+2008,"Denmark","DNK","Colombia","COL",.0357498
+2008,"Denmark","DNK","Denmark","DNK",.2992662
+2008,"Denmark","DNK","European Monetary Union","EMU",.0945537
+2008,"Denmark","DNK","France","FRA",.0270328
+2008,"Denmark","DNK","Germany","DEU",.0349138
+2008,"Denmark","DNK","Hungary","HUN",.0073083
+2008,"Denmark","DNK","Indonesia","IDN",.0373835
+2008,"Denmark","DNK","Italy","ITA",.0109736
+2008,"Denmark","DNK","Mexico","MEX",.0605299
+2008,"Denmark","DNK","Panama","PAN",.0175379
+2008,"Denmark","DNK","Peru","PER",.0253032
+2008,"Denmark","DNK","Philippines","PHL",.0263193
+2008,"Denmark","DNK","Poland","POL",.0149451
+2008,"Denmark","DNK","Russian Federation","RUS",.0604529
+2008,"Denmark","DNK","South Africa","ZAF",.0135995
+2008,"Denmark","DNK","Turkey","TUR",.0434729
+2008,"Denmark","DNK","United States","USA",.0586313
+2008,"Denmark","DNK","Uruguay","URY",.0186804
+2008,"Denmark","DNK","Venezuela, Bolivarian Republic of","VEN",.0269175
+2008,"European Monetary Union","EMU","Austria","AUT",.0183157
+2008,"European Monetary Union","EMU","Belgium","BEL",.0227976
+2008,"European Monetary Union","EMU","Brazil","BRA",.0042857
+2008,"European Monetary Union","EMU","Canada","CAN",.0050356
+2008,"European Monetary Union","EMU","Cyprus","CYP",.0000627
+2008,"European Monetary Union","EMU","European Monetary Union","EMU",.7555163
+2008,"European Monetary Union","EMU","Finland","FIN",.0074786
+2008,"European Monetary Union","EMU","France","FRA",.1284115
+2008,"European Monetary Union","EMU","Germany","DEU",.1236127
+2008,"European Monetary Union","EMU","Greece","GRC",.0320665
+2008,"European Monetary Union","EMU","Hungary","HUN",.0049317
+2008,"European Monetary Union","EMU","Ireland","IRL",.0037685
+2008,"European Monetary Union","EMU","Italy","ITA",.2629511
+2008,"European Monetary Union","EMU","Japan","JPN",.0150766
+2008,"European Monetary Union","EMU","Luxembourg","LUX",.0000345
+2008,"European Monetary Union","EMU","Mexico","MEX",.0033516
+2008,"European Monetary Union","EMU","Netherlands","NLD",.0270487
+2008,"European Monetary Union","EMU","Poland","POL",.0061499
+2008,"European Monetary Union","EMU","Portugal","PRT",.0105563
+2008,"European Monetary Union","EMU","Slovenia","SVN",.0008252
+2008,"European Monetary Union","EMU","Spain","ESP",.1175865
+2008,"European Monetary Union","EMU","Sweden","SWE",.0106194
+2008,"European Monetary Union","EMU","Turkey","TUR",.0031135
+2008,"European Monetary Union","EMU","United Kingdom","GBR",.0207373
+2008,"European Monetary Union","EMU","United States","USA",.1455594
+2008,"Norway","NOR","Brazil","BRA",.0108486
+2008,"Norway","NOR","Canada","CAN",.0180343
+2008,"Norway","NOR","Denmark","DNK",.0199118
+2008,"Norway","NOR","European Monetary Union","EMU",.2165538
+2008,"Norway","NOR","Finland","FIN",.03565
+2008,"Norway","NOR","France","FRA",.0462978
+2008,"Norway","NOR","Germany","DEU",.0779948
+2008,"Norway","NOR","Greece","GRC",.006984
+2008,"Norway","NOR","Hungary","HUN",.0112597
+2008,"Norway","NOR","Italy","ITA",.0369211
+2008,"Norway","NOR","Japan","JPN",.0417134
+2008,"Norway","NOR","Norway","NOR",.5657097
+2008,"Norway","NOR","Spain","ESP",.0062766
+2008,"Norway","NOR","Sweden","SWE",.0047169
+2008,"Norway","NOR","United Kingdom","GBR",.0196986
+2008,"Norway","NOR","United States","USA",.0793646
+2008,"Sweden","SWE","Austria","AUT",.0005845
+2008,"Sweden","SWE","Belgium","BEL",.0012978
+2008,"Sweden","SWE","Canada","CAN",.0012137
+2008,"Sweden","SWE","Denmark","DNK",.0007536
+2008,"Sweden","SWE","European Monetary Union","EMU",.0263574
+2008,"Sweden","SWE","Finland","FIN",.0011154
+2008,"Sweden","SWE","France","FRA",.0068288
+2008,"Sweden","SWE","Germany","DEU",.0115711
+2008,"Sweden","SWE","Italy","ITA",.0043056
+2008,"Sweden","SWE","Sweden","SWE",.9440674
+2008,"Sweden","SWE","United Kingdom","GBR",.0073531
+2008,"Sweden","SWE","United States","USA",.019859
+2008,"Switzerland","CHE","Australia","AUS",.013428
+2008,"Switzerland","CHE","Austria","AUT",.0285937
+2008,"Switzerland","CHE","Belgium","BEL",.0226464
+2008,"Switzerland","CHE","Canada","CAN",.0250312
+2008,"Switzerland","CHE","Denmark","DNK",.0174724
+2008,"Switzerland","CHE","European Monetary Union","EMU",.4482268
+2008,"Switzerland","CHE","Finland","FIN",.0362898
+2008,"Switzerland","CHE","France","FRA",.1415787
+2008,"Switzerland","CHE","Germany","DEU",.0807666
+2008,"Switzerland","CHE","Greece","GRC",.0110197
+2008,"Switzerland","CHE","Italy","ITA",.0191526
+2008,"Switzerland","CHE","Japan","JPN",.0170605
+2008,"Switzerland","CHE","Netherlands","NLD",.063489
+2008,"Switzerland","CHE","Poland","POL",.0063961
+2008,"Switzerland","CHE","Portugal","PRT",.01046
+2008,"Switzerland","CHE","Spain","ESP",.0305867
+2008,"Switzerland","CHE","Sweden","SWE",.022143
+2008,"Switzerland","CHE","Switzerland","CHE",.3816749
+2008,"Switzerland","CHE","United Kingdom","GBR",.027831
+2008,"Switzerland","CHE","United States","USA",.0314462
+2008,"United Kingdom","GBR","Brazil","BRA",.0023152
+2008,"United Kingdom","GBR","Canada","CAN",.0056638
+2008,"United Kingdom","GBR","European Monetary Union","EMU",.0754556
+2008,"United Kingdom","GBR","France","FRA",.0211688
+2008,"United Kingdom","GBR","Germany","DEU",.0381726
+2008,"United Kingdom","GBR","Italy","ITA",.0125201
+2008,"United Kingdom","GBR","Japan","JPN",.0190265
+2008,"United Kingdom","GBR","Mexico","MEX",.0036037
+2008,"United Kingdom","GBR","United Kingdom","GBR",.8141579
+2008,"United Kingdom","GBR","United States","USA",.0642647
+2008,"United States","USA","Argentina","ARG",.0003089
+2008,"United States","USA","Australia","AUS",.0004212
+2008,"United States","USA","Belgium","BEL",.0003164
+2008,"United States","USA","Brazil","BRA",.0026057
+2008,"United States","USA","Canada","CAN",.0024593
+2008,"United States","USA","Colombia","COL",.0003806
+2008,"United States","USA","Egypt","EGY",.0003113
+2008,"United States","USA","European Monetary Union","EMU",.0068036
+2008,"United States","USA","France","FRA",.0014761
+2008,"United States","USA","Germany","DEU",.0032405
+2008,"United States","USA","Indonesia","IDN",.0009028
+2008,"United States","USA","Israel","ISR",.00043
+2008,"United States","USA","Italy","ITA",.0006891
+2008,"United States","USA","Japan","JPN",.0041685
+2008,"United States","USA","Korea, Republic of","KOR",.0011065
+2008,"United States","USA","Malaysia","MYS",.0003412
+2008,"United States","USA","Mexico","MEX",.0017688
+2008,"United States","USA","Netherlands","NLD",.0005891
+2008,"United States","USA","Peru","PER",.0003443
+2008,"United States","USA","Poland","POL",.000366
+2008,"United States","USA","Russian Federation","RUS",.000757
+2008,"United States","USA","Singapore","SGP",.0002934
+2008,"United States","USA","Sweden","SWE",.0005527
+2008,"United States","USA","Turkey","TUR",.000542
+2008,"United States","USA","United Kingdom","GBR",.0011462
+2008,"United States","USA","United States","USA",.9716287
+2008,"United States","USA","Venezuela, Bolivarian Republic of","VEN",.0003331
+2007,"Canada","CAN","Australia","AUS",.0008698
+2007,"Canada","CAN","Austria","AUT",.0005018
+2007,"Canada","CAN","Brazil","BRA",.0009409
+2007,"Canada","CAN","Canada","CAN",.9524804
+2007,"Canada","CAN","European Monetary Union","EMU",.0133105
+2007,"Canada","CAN","France","FRA",.003021
+2007,"Canada","CAN","Germany","DEU",.0068642
+2007,"Canada","CAN","Japan","JPN",.0028979
+2007,"Canada","CAN","Mexico","MEX",.0007648
+2007,"Canada","CAN","Netherlands","NLD",.0011578
+2007,"Canada","CAN","Norway","NOR",.0005181
+2007,"Canada","CAN","Poland","POL",.0005016
+2007,"Canada","CAN","Spain","ESP",.0011169
+2007,"Canada","CAN","Sweden","SWE",.0006516
+2007,"Canada","CAN","United Kingdom","GBR",.0041991
+2007,"Canada","CAN","United States","USA",.0190889
+2007,"Denmark","DNK","Argentina","ARG",.0425146
+2007,"Denmark","DNK","Brazil","BRA",.0704834
+2007,"Denmark","DNK","Colombia","COL",.0385666
+2007,"Denmark","DNK","Denmark","DNK",.2786947
+2007,"Denmark","DNK","El Salvador","SLV",.0077342
+2007,"Denmark","DNK","European Monetary Union","EMU",.0705852
+2007,"Denmark","DNK","France","FRA",.0151158
+2007,"Denmark","DNK","Germany","DEU",.0300733
+2007,"Denmark","DNK","Indonesia","IDN",.0217779
+2007,"Denmark","DNK","Italy","ITA",.0084909
+2007,"Denmark","DNK","Mexico","MEX",.0465414
+2007,"Denmark","DNK","Panama","PAN",.0157962
+2007,"Denmark","DNK","Peru","PER",.0204493
+2007,"Denmark","DNK","Philippines","PHL",.03766
+2007,"Denmark","DNK","Poland","POL",.0098596
+2007,"Denmark","DNK","Qatar","QAT",.0094973
+2007,"Denmark","DNK","Russian Federation","RUS",.064244
+2007,"Denmark","DNK","South Africa","ZAF",.0106471
+2007,"Denmark","DNK","Turkey","TUR",.0446916
+2007,"Denmark","DNK","Ukraine","UKR",.0135752
+2007,"Denmark","DNK","United Kingdom","GBR",.0108916
+2007,"Denmark","DNK","United States","USA",.0597142
+2007,"Denmark","DNK","Uruguay","URY",.0238831
+2007,"Denmark","DNK","Venezuela, Bolivarian Republic of","VEN",.0463774
+2007,"European Monetary Union","EMU","Argentina","ARG",.0036464
+2007,"European Monetary Union","EMU","Austria","AUT",.0251128
+2007,"European Monetary Union","EMU","Belgium","BEL",.0237593
+2007,"European Monetary Union","EMU","Brazil","BRA",.0065371
+2007,"European Monetary Union","EMU","Canada","CAN",.00768
+2007,"European Monetary Union","EMU","Czech Republic","CZE",.0030379
+2007,"European Monetary Union","EMU","Denmark","DNK",.0025307
+2007,"European Monetary Union","EMU","European Monetary Union","EMU",.7549438
+2007,"European Monetary Union","EMU","Finland","FIN",.0080817
+2007,"European Monetary Union","EMU","France","FRA",.127884
+2007,"European Monetary Union","EMU","Germany","DEU",.1515414
+2007,"European Monetary Union","EMU","Greece","GRC",.0347523
+2007,"European Monetary Union","EMU","Hungary","HUN",.0085519
+2007,"European Monetary Union","EMU","Ireland","IRL",.0045789
+2007,"European Monetary Union","EMU","Italy","ITA",.2948225
+2007,"European Monetary Union","EMU","Japan","JPN",.0162593
+2007,"European Monetary Union","EMU","Mexico","MEX",.0051349
+2007,"European Monetary Union","EMU","Netherlands","NLD",.0296231
+2007,"European Monetary Union","EMU","Philippines","PHL",.0034026
+2007,"European Monetary Union","EMU","Poland","POL",.010602
+2007,"European Monetary Union","EMU","Portugal","PRT",.006675
+2007,"European Monetary Union","EMU","Russian Federation","RUS",.0031213
+2007,"European Monetary Union","EMU","Slovenia","SVN",.0006492
+2007,"European Monetary Union","EMU","Spain","ESP",.0474634
+2007,"European Monetary Union","EMU","Sweden","SWE",.01258
+2007,"European Monetary Union","EMU","Turkey","TUR",.0065274
+2007,"European Monetary Union","EMU","United Kingdom","GBR",.0249535
+2007,"European Monetary Union","EMU","United States","USA",.0970398
+2007,"European Monetary Union","EMU","Venezuela, Bolivarian Republic of","VEN",.0030821
+2007,"Norway","NOR","Austria","AUT",.0045327
+2007,"Norway","NOR","Brazil","BRA",.0139338
+2007,"Norway","NOR","Canada","CAN",.0280129
+2007,"Norway","NOR","Denmark","DNK",.0109794
+2007,"Norway","NOR","European Monetary Union","EMU",.1483248
+2007,"Norway","NOR","Finland","FIN",.0239269
+2007,"Norway","NOR","France","FRA",.0158371
+2007,"Norway","NOR","Germany","DEU",.0443993
+2007,"Norway","NOR","Greece","GRC",.013518
+2007,"Norway","NOR","Iceland","ISL",.0687415
+2007,"Norway","NOR","Italy","ITA",.0364322
+2007,"Norway","NOR","Japan","JPN",.0102503
+2007,"Norway","NOR","Mexico","MEX",.0299129
+2007,"Norway","NOR","Netherlands","NLD",.0057758
+2007,"Norway","NOR","Norway","NOR",.6144221
+2007,"Norway","NOR","Sweden","SWE",.0056718
+2007,"Norway","NOR","United Kingdom","GBR",.0164508
+2007,"Norway","NOR","United States","USA",.047324
+2007,"Sweden","SWE","Austria","AUT",.0025619
+2007,"Sweden","SWE","Belgium","BEL",.0035036
+2007,"Sweden","SWE","European Monetary Union","EMU",.0241773
+2007,"Sweden","SWE","Finland","FIN",.0010611
+2007,"Sweden","SWE","France","FRA",.0048502
+2007,"Sweden","SWE","Germany","DEU",.0113872
+2007,"Sweden","SWE","Sweden","SWE",.8953435
+2007,"Sweden","SWE","United Kingdom","GBR",.0344823
+2007,"Sweden","SWE","United States","USA",.0444206
+2007,"Switzerland","CHE","Austria","AUT",.0260365
+2007,"Switzerland","CHE","Belgium","BEL",.0235524
+2007,"Switzerland","CHE","Canada","CAN",.0413281
+2007,"Switzerland","CHE","Denmark","DNK",.0068581
+2007,"Switzerland","CHE","European Monetary Union","EMU",.3577093
+2007,"Switzerland","CHE","Finland","FIN",.0148011
+2007,"Switzerland","CHE","France","FRA",.056921
+2007,"Switzerland","CHE","Germany","DEU",.0828286
+2007,"Switzerland","CHE","Greece","GRC",.021745
+2007,"Switzerland","CHE","Ireland","IRL",.005755
+2007,"Switzerland","CHE","Italy","ITA",.0356984
+2007,"Switzerland","CHE","Japan","JPN",.0174382
+2007,"Switzerland","CHE","Korea, Republic of","KOR",.0058105
+2007,"Switzerland","CHE","Netherlands","NLD",.0274435
+2007,"Switzerland","CHE","Poland","POL",.0057422
+2007,"Switzerland","CHE","Portugal","PRT",.0333071
+2007,"Switzerland","CHE","Spain","ESP",.0295172
+2007,"Switzerland","CHE","Sweden","SWE",.0131992
+2007,"Switzerland","CHE","Switzerland","CHE",.4802513
+2007,"Switzerland","CHE","United Kingdom","GBR",.017566
+2007,"Switzerland","CHE","United States","USA",.0455943
+2007,"United Kingdom","GBR","Australia","AUS",.0037406
+2007,"United Kingdom","GBR","Belgium","BEL",.0017445
+2007,"United Kingdom","GBR","Canada","CAN",.0073651
+2007,"United Kingdom","GBR","European Monetary Union","EMU",.0674168
+2007,"United Kingdom","GBR","Finland","FIN",.0018626
+2007,"United Kingdom","GBR","France","FRA",.0144678
+2007,"United Kingdom","GBR","Germany","DEU",.0417709
+2007,"United Kingdom","GBR","Hungary","HUN",.0024019
+2007,"United Kingdom","GBR","Italy","ITA",.0027417
+2007,"United Kingdom","GBR","Japan","JPN",.0102723
+2007,"United Kingdom","GBR","Mexico","MEX",.0039927
+2007,"United Kingdom","GBR","Netherlands","NLD",.002646
+2007,"United Kingdom","GBR","Norway","NOR",.0031555
+2007,"United Kingdom","GBR","Sweden","SWE",.002606
+2007,"United Kingdom","GBR","Switzerland","CHE",.0023608
+2007,"United Kingdom","GBR","United Kingdom","GBR",.8258971
+2007,"United Kingdom","GBR","United States","USA",.0564177
+2007,"United States","USA","Argentina","ARG",.0011184
+2007,"United States","USA","Australia","AUS",.0007575
+2007,"United States","USA","Brazil","BRA",.0037759
+2007,"United States","USA","Canada","CAN",.0056768
+2007,"United States","USA","Colombia","COL",.0006483
+2007,"United States","USA","Egypt","EGY",.0005177
+2007,"United States","USA","European Monetary Union","EMU",.0105308
+2007,"United States","USA","France","FRA",.002369
+2007,"United States","USA","Germany","DEU",.0046304
+2007,"United States","USA","Indonesia","IDN",.0008681
+2007,"United States","USA","Israel","ISR",.0006753
+2007,"United States","USA","Italy","ITA",.0012812
+2007,"United States","USA","Japan","JPN",.0047146
+2007,"United States","USA","Korea, Republic of","KOR",.0021308
+2007,"United States","USA","Malaysia","MYS",.0008713
+2007,"United States","USA","Mexico","MEX",.0034288
+2007,"United States","USA","Netherlands","NLD",.0005263
+2007,"United States","USA","Norway","NOR",.0005487
+2007,"United States","USA","Peru","PER",.0006135
+2007,"United States","USA","Philippines","PHL",.0005686
+2007,"United States","USA","Poland","POL",.000979
+2007,"United States","USA","Russian Federation","RUS",.0011397
+2007,"United States","USA","Singapore","SGP",.0008977
+2007,"United States","USA","Sweden","SWE",.0020451
+2007,"United States","USA","Turkey","TUR",.0010325
+2007,"United States","USA","United Kingdom","GBR",.0020969
+2007,"United States","USA","United States","USA",.950222
+2007,"United States","USA","Venezuela, Bolivarian Republic of","VEN",.0005554
+2006,"Canada","CAN","Australia","AUS",.000555
+2006,"Canada","CAN","Austria","AUT",.000586
+2006,"Canada","CAN","Brazil","BRA",.0008804
+2006,"Canada","CAN","Canada","CAN",.9528543
+2006,"Canada","CAN","European Monetary Union","EMU",.009635
+2006,"Canada","CAN","France","FRA",.0019801
+2006,"Canada","CAN","Germany","DEU",.0044743
+2006,"Canada","CAN","Japan","JPN",.0023049
+2006,"Canada","CAN","Mexico","MEX",.0005148
+2006,"Canada","CAN","Netherlands","NLD",.0007838
+2006,"Canada","CAN","Norway","NOR",.000783
+2006,"Canada","CAN","Poland","POL",.0005952
+2006,"Canada","CAN","Spain","ESP",.0013181
+2006,"Canada","CAN","Sweden","SWE",.0010199
+2006,"Canada","CAN","United Kingdom","GBR",.0024704
+2006,"Canada","CAN","United States","USA",.0241722
+2006,"Denmark","DNK","Argentina","ARG",.0331264
+2006,"Denmark","DNK","Brazil","BRA",.0523693
+2006,"Denmark","DNK","Colombia","COL",.0300655
+2006,"Denmark","DNK","Denmark","DNK",.3699999
+2006,"Denmark","DNK","European Monetary Union","EMU",.0726565
+2006,"Denmark","DNK","France","FRA",.0134556
+2006,"Denmark","DNK","Germany","DEU",.0352309
+2006,"Denmark","DNK","Indonesia","IDN",.0164075
+2006,"Denmark","DNK","Italy","ITA",.009485
+2006,"Denmark","DNK","Mexico","MEX",.0406721
+2006,"Denmark","DNK","Panama","PAN",.0177954
+2006,"Denmark","DNK","Peru","PER",.0198811
+2006,"Denmark","DNK","Philippines","PHL",.0296499
+2006,"Denmark","DNK","Poland","POL",.0072841
+2006,"Denmark","DNK","Russian Federation","RUS",.046508
+2006,"Denmark","DNK","South Africa","ZAF",.0082848
+2006,"Denmark","DNK","Turkey","TUR",.0476643
+2006,"Denmark","DNK","Ukraine","UKR",.007996
+2006,"Denmark","DNK","United Kingdom","GBR",.0114201
+2006,"Denmark","DNK","United States","USA",.0407258
+2006,"Denmark","DNK","Uruguay","URY",.0215014
+2006,"Denmark","DNK","Venezuela, Bolivarian Republic of","VEN",.0462069
+2006,"European Monetary Union","EMU","Austria","AUT",.0272233
+2006,"European Monetary Union","EMU","Belgium","BEL",.0251384
+2006,"European Monetary Union","EMU","Brazil","BRA",.0049322
+2006,"European Monetary Union","EMU","Canada","CAN",.0031186
+2006,"European Monetary Union","EMU","Denmark","DNK",.001799
+2006,"European Monetary Union","EMU","European Monetary Union","EMU",.846259
+2006,"European Monetary Union","EMU","Finland","FIN",.007174
+2006,"European Monetary Union","EMU","France","FRA",.1360997
+2006,"European Monetary Union","EMU","Germany","DEU",.1726565
+2006,"European Monetary Union","EMU","Greece","GRC",.0221949
+2006,"European Monetary Union","EMU","Hungary","HUN",.0038647
+2006,"European Monetary Union","EMU","Ireland","IRL",.0022157
+2006,"European Monetary Union","EMU","Italy","ITA",.3478898
+2006,"European Monetary Union","EMU","Japan","JPN",.0083529
+2006,"European Monetary Union","EMU","Mexico","MEX",.0029653
+2006,"European Monetary Union","EMU","Netherlands","NLD",.0297639
+2006,"European Monetary Union","EMU","Norway","NOR",.0020131
+2006,"European Monetary Union","EMU","Poland","POL",.0056039
+2006,"European Monetary Union","EMU","Portugal","PRT",.0058942
+2006,"European Monetary Union","EMU","Russian Federation","RUS",.0026096
+2006,"European Monetary Union","EMU","Spain","ESP",.0700085
+2006,"European Monetary Union","EMU","Sweden","SWE",.0110467
+2006,"European Monetary Union","EMU","Turkey","TUR",.0032904
+2006,"European Monetary Union","EMU","United Kingdom","GBR",.0236238
+2006,"European Monetary Union","EMU","United States","USA",.0599789
+2006,"European Monetary Union","EMU","Venezuela, Bolivarian Republic of","VEN",.0019531
+2006,"Norway","NOR","Austria","AUT",.0112199
+2006,"Norway","NOR","Canada","CAN",.009082
+2006,"Norway","NOR","European Monetary Union","EMU",.1465027
+2006,"Norway","NOR","France","FRA",.0184084
+2006,"Norway","NOR","Germany","DEU",.0660288
+2006,"Norway","NOR","Greece","GRC",.0099596
+2006,"Norway","NOR","Iceland","ISL",.005115
+2006,"Norway","NOR","Italy","ITA",.0390491
+2006,"Norway","NOR","Japan","JPN",.0206701
+2006,"Norway","NOR","Norway","NOR",.7314181
+2006,"Norway","NOR","Sweden","SWE",.0027616
+2006,"Norway","NOR","United Kingdom","GBR",.0176259
+2006,"Norway","NOR","United States","USA",.0657041
+2006,"Sweden","SWE","Denmark","DNK",.0021607
+2006,"Sweden","SWE","European Monetary Union","EMU",.0352744
+2006,"Sweden","SWE","France","FRA",.0038257
+2006,"Sweden","SWE","Germany","DEU",.0226082
+2006,"Sweden","SWE","Italy","ITA",.0030002
+2006,"Sweden","SWE","Japan","JPN",.0008459
+2006,"Sweden","SWE","Netherlands","NLD",.0014039
+2006,"Sweden","SWE","Spain","ESP",.0031996
+2006,"Sweden","SWE","Sweden","SWE",.9208984
+2006,"Sweden","SWE","United Kingdom","GBR",.0139068
+2006,"Sweden","SWE","United States","USA",.0256485
+2006,"Switzerland","CHE","Austria","AUT",.0355589
+2006,"Switzerland","CHE","Belgium","BEL",.0116233
+2006,"Switzerland","CHE","Canada","CAN",.0471942
+2006,"Switzerland","CHE","Denmark","DNK",.010858
+2006,"Switzerland","CHE","European Monetary Union","EMU",.3648063
+2006,"Switzerland","CHE","Finland","FIN",.0091844
+2006,"Switzerland","CHE","France","FRA",.0573788
+2006,"Switzerland","CHE","Germany","DEU",.122585
+2006,"Switzerland","CHE","Greece","GRC",.0142986
+2006,"Switzerland","CHE","Ireland","IRL",.0078814
+2006,"Switzerland","CHE","Italy","ITA",.0360294
+2006,"Switzerland","CHE","Japan","JPN",.0193452
+2006,"Switzerland","CHE","Korea, Republic of","KOR",.0059106
+2006,"Switzerland","CHE","Netherlands","NLD",.0312184
+2006,"Switzerland","CHE","Portugal","PRT",.0209854
+2006,"Switzerland","CHE","Spain","ESP",.0180625
+2006,"Switzerland","CHE","Sweden","SWE",.0211052
+2006,"Switzerland","CHE","Switzerland","CHE",.4229812
+2006,"Switzerland","CHE","United Kingdom","GBR",.0150084
+2006,"Switzerland","CHE","United States","USA",.0776732
+2006,"United Kingdom","GBR","Argentina","ARG",.0027069
+2006,"United Kingdom","GBR","Australia","AUS",.0043859
+2006,"United Kingdom","GBR","Belgium","BEL",.0060091
+2006,"United Kingdom","GBR","Brazil","BRA",.0030574
+2006,"United Kingdom","GBR","Canada","CAN",.0072054
+2006,"United Kingdom","GBR","European Monetary Union","EMU",.0748449
+2006,"United Kingdom","GBR","France","FRA",.0124237
+2006,"United Kingdom","GBR","Germany","DEU",.0418788
+2006,"United Kingdom","GBR","Ireland","IRL",.0031749
+2006,"United Kingdom","GBR","Italy","ITA",.0050642
+2006,"United Kingdom","GBR","Japan","JPN",.0168528
+2006,"United Kingdom","GBR","Mexico","MEX",.005452
+2006,"United Kingdom","GBR","Netherlands","NLD",.0031293
+2006,"United Kingdom","GBR","Norway","NOR",.0022412
+2006,"United Kingdom","GBR","Russian Federation","RUS",.0025404
+2006,"United Kingdom","GBR","Sweden","SWE",.0053684
+2006,"United Kingdom","GBR","United Kingdom","GBR",.7822013
+2006,"United Kingdom","GBR","United States","USA",.0800929
+2006,"United States","USA","Argentina","ARG",.0015808
+2006,"United States","USA","Brazil","BRA",.0033989
+2006,"United States","USA","Canada","CAN",.00725
+2006,"United States","USA","Colombia","COL",.0008005
+2006,"United States","USA","European Monetary Union","EMU",.0118217
+2006,"United States","USA","France","FRA",.0026952
+2006,"United States","USA","Germany","DEU",.0051116
+2006,"United States","USA","Indonesia","IDN",.0007045
+2006,"United States","USA","Israel","ISR",.0005514
+2006,"United States","USA","Italy","ITA",.0010604
+2006,"United States","USA","Japan","JPN",.0036423
+2006,"United States","USA","Korea, Republic of","KOR",.0014171
+2006,"United States","USA","Mexico","MEX",.0035723
+2006,"United States","USA","Netherlands","NLD",.0005835
+2006,"United States","USA","Norway","NOR",.0007375
+2006,"United States","USA","Panama","PAN",.0005791
+2006,"United States","USA","Peru","PER",.0008385
+2006,"United States","USA","Philippines","PHL",.0007712
+2006,"United States","USA","Poland","POL",.0010946
+2006,"United States","USA","Russian Federation","RUS",.0015907
+2006,"United States","USA","Singapore","SGP",.0005621
+2006,"United States","USA","South Africa","ZAF",.0005111
+2006,"United States","USA","Spain","ESP",.0007833
+2006,"United States","USA","Sweden","SWE",.0018566
+2006,"United States","USA","Turkey","TUR",.0009572
+2006,"United States","USA","United Kingdom","GBR",.0021057
+2006,"United States","USA","United States","USA",.9490052
+2006,"United States","USA","Venezuela, Bolivarian Republic of","VEN",.000714
+2005,"Canada","CAN","Australia","AUS",.0013873
+2005,"Canada","CAN","Austria","AUT",.0006155
+2005,"Canada","CAN","Brazil","BRA",.0006312
+2005,"Canada","CAN","Canada","CAN",.958909
+2005,"Canada","CAN","European Monetary Union","EMU",.0081565
+2005,"Canada","CAN","France","FRA",.0015435
+2005,"Canada","CAN","Germany","DEU",.0034568
+2005,"Canada","CAN","Japan","JPN",.0014101
+2005,"Canada","CAN","Mexico","MEX",.0010863
+2005,"Canada","CAN","Netherlands","NLD",.00083
+2005,"Canada","CAN","New Zealand","NZL",.0006367
+2005,"Canada","CAN","Poland","POL",.0004264
+2005,"Canada","CAN","Spain","ESP",.0011521
+2005,"Canada","CAN","Sweden","SWE",.0006628
+2005,"Canada","CAN","United Kingdom","GBR",.0016472
+2005,"Canada","CAN","United States","USA",.0216294
+2005,"Denmark","DNK","Argentina","ARG",.021625
+2005,"Denmark","DNK","Brazil","BRA",.0465568
+2005,"Denmark","DNK","Chile","CHL",.0064048
+2005,"Denmark","DNK","Colombia","COL",.0233072
+2005,"Denmark","DNK","Denmark","DNK",.4492202
+2005,"Denmark","DNK","European Monetary Union","EMU",.0781078
+2005,"Denmark","DNK","France","FRA",.0133481
+2005,"Denmark","DNK","Germany","DEU",.0383016
+2005,"Denmark","DNK","Indonesia","IDN",.0085627
+2005,"Denmark","DNK","Italy","ITA",.012544
+2005,"Denmark","DNK","Mexico","MEX",.0387867
+2005,"Denmark","DNK","Panama","PAN",.0167326
+2005,"Denmark","DNK","Peru","PER",.0170936
+2005,"Denmark","DNK","Philippines","PHL",.0241874
+2005,"Denmark","DNK","Poland","POL",.0066418
+2005,"Denmark","DNK","Russian Federation","RUS",.0427375
+2005,"Denmark","DNK","Serbia","SRB",.0061207
+2005,"Denmark","DNK","South Africa","ZAF",.007759
+2005,"Denmark","DNK","Turkey","TUR",.0343276
+2005,"Denmark","DNK","Ukraine","UKR",.0114709
+2005,"Denmark","DNK","United Kingdom","GBR",.0076408
+2005,"Denmark","DNK","United States","USA",.0444662
+2005,"Denmark","DNK","Uruguay","URY",.0090577
+2005,"Denmark","DNK","Venezuela, Bolivarian Republic of","VEN",.0388038
+2005,"European Monetary Union","EMU","Austria","AUT",.0178524
+2005,"European Monetary Union","EMU","Belgium","BEL",.025414
+2005,"European Monetary Union","EMU","Brazil","BRA",.0038781
+2005,"European Monetary Union","EMU","Canada","CAN",.0029522
+2005,"European Monetary Union","EMU","Denmark","DNK",.0020092
+2005,"European Monetary Union","EMU","European Monetary Union","EMU",.8747801
+2005,"European Monetary Union","EMU","Finland","FIN",.0070713
+2005,"European Monetary Union","EMU","France","FRA",.1472487
+2005,"European Monetary Union","EMU","Germany","DEU",.1826992
+2005,"European Monetary Union","EMU","Greece","GRC",.0253388
+2005,"European Monetary Union","EMU","Hungary","HUN",.0034375
+2005,"European Monetary Union","EMU","Ireland","IRL",.0034799
+2005,"European Monetary Union","EMU","Italy","ITA",.3523518
+2005,"European Monetary Union","EMU","Japan","JPN",.0068034
+2005,"European Monetary Union","EMU","Mexico","MEX",.0040542
+2005,"European Monetary Union","EMU","Netherlands","NLD",.0387713
+2005,"European Monetary Union","EMU","Philippines","PHL",.0012632
+2005,"European Monetary Union","EMU","Poland","POL",.0046338
+2005,"European Monetary Union","EMU","Portugal","PRT",.0048337
+2005,"European Monetary Union","EMU","Russian Federation","RUS",.00285
+2005,"European Monetary Union","EMU","Spain","ESP",.0697189
+2005,"European Monetary Union","EMU","Sweden","SWE",.0106736
+2005,"European Monetary Union","EMU","Turkey","TUR",.0023775
+2005,"European Monetary Union","EMU","United Kingdom","GBR",.0132736
+2005,"European Monetary Union","EMU","United States","USA",.0494334
+2005,"European Monetary Union","EMU","Venezuela, Bolivarian Republic of","VEN",.001747
+2005,"Norway","NOR","Argentina","ARG",.0034418
+2005,"Norway","NOR","Brazil","BRA",.0083032
+2005,"Norway","NOR","Canada","CAN",.0054572
+2005,"Norway","NOR","European Monetary Union","EMU",.1165068
+2005,"Norway","NOR","France","FRA",.0125222
+2005,"Norway","NOR","Germany","DEU",.0619221
+2005,"Norway","NOR","Greece","GRC",.0045538
+2005,"Norway","NOR","Hungary","HUN",.0064296
+2005,"Norway","NOR","Iceland","ISL",.0042117
+2005,"Norway","NOR","Italy","ITA",.0251569
+2005,"Norway","NOR","Mexico","MEX",.0165305
+2005,"Norway","NOR","Netherlands","NLD",.0033643
+2005,"Norway","NOR","Norway","NOR",.7611498
+2005,"Norway","NOR","Spain","ESP",.0053816
+2005,"Norway","NOR","Sweden","SWE",.0042223
+2005,"Norway","NOR","United Kingdom","GBR",.0135513
+2005,"Norway","NOR","United States","USA",.0647261
+2005,"Switzerland","CHE","Australia","AUS",.0200611
+2005,"Switzerland","CHE","Austria","AUT",.0481878
+2005,"Switzerland","CHE","Belgium","BEL",.0128147
+2005,"Switzerland","CHE","Canada","CAN",.0493767
+2005,"Switzerland","CHE","Denmark","DNK",.0144378
+2005,"Switzerland","CHE","European Monetary Union","EMU",.3755563
+2005,"Switzerland","CHE","Finland","FIN",.0164587
+2005,"Switzerland","CHE","France","FRA",.0535631
+2005,"Switzerland","CHE","Germany","DEU",.1300748
+2005,"Switzerland","CHE","Greece","GRC",.0144335
+2005,"Switzerland","CHE","Ireland","IRL",.0073779
+2005,"Switzerland","CHE","Italy","ITA",.0385036
+2005,"Switzerland","CHE","Japan","JPN",.0227972
+2005,"Switzerland","CHE","Netherlands","NLD",.0320876
+2005,"Switzerland","CHE","Portugal","PRT",.0075569
+2005,"Switzerland","CHE","Spain","ESP",.0144977
+2005,"Switzerland","CHE","Sweden","SWE",.0197414
+2005,"Switzerland","CHE","Switzerland","CHE",.375366
+2005,"Switzerland","CHE","United Kingdom","GBR",.0395003
+2005,"Switzerland","CHE","United States","USA",.07122
+2005,"United Kingdom","GBR","Belgium","BEL",.002703
+2005,"United Kingdom","GBR","Brazil","BRA",.001859
+2005,"United Kingdom","GBR","European Monetary Union","EMU",.0835285
+2005,"United Kingdom","GBR","France","FRA",.011427
+2005,"United Kingdom","GBR","Germany","DEU",.0385199
+2005,"United Kingdom","GBR","Hungary","HUN",.0022906
+2005,"United Kingdom","GBR","Italy","ITA",.0113767
+2005,"United Kingdom","GBR","Japan","JPN",.0042024
+2005,"United Kingdom","GBR","Mexico","MEX",.0025945
+2005,"United Kingdom","GBR","Netherlands","NLD",.0077195
+2005,"United Kingdom","GBR","Norway","NOR",.002617
+2005,"United Kingdom","GBR","Spain","ESP",.0070106
+2005,"United Kingdom","GBR","Sweden","SWE",.0021715
+2005,"United Kingdom","GBR","United Kingdom","GBR",.8359442
+2005,"United Kingdom","GBR","United States","USA",.0549083
+2005,"United States","USA","Argentina","ARG",.000917
+2005,"United States","USA","Australia","AUS",.0008824
+2005,"United States","USA","Brazil","BRA",.0052206
+2005,"United States","USA","Canada","CAN",.0052501
+2005,"United States","USA","Colombia","COL",.0007327
+2005,"United States","USA","European Monetary Union","EMU",.0131885
+2005,"United States","USA","France","FRA",.0042156
+2005,"United States","USA","Germany","DEU",.0050264
+2005,"United States","USA","Italy","ITA",.0010802
+2005,"United States","USA","Japan","JPN",.0029064
+2005,"United States","USA","Korea, Republic of","KOR",.0010699
+2005,"United States","USA","Mexico","MEX",.004722
+2005,"United States","USA","Netherlands","NLD",.0006155
+2005,"United States","USA","New Zealand","NZL",.000597
+2005,"United States","USA","Panama","PAN",.0006926
+2005,"United States","USA","Peru","PER",.0011505
+2005,"United States","USA","Philippines","PHL",.0006425
+2005,"United States","USA","Poland","POL",.0006736
+2005,"United States","USA","Russian Federation","RUS",.0027364
+2005,"United States","USA","Spain","ESP",.0008009
+2005,"United States","USA","Sweden","SWE",.0012225
+2005,"United States","USA","Turkey","TUR",.0007423
+2005,"United States","USA","United Kingdom","GBR",.0018488
+2005,"United States","USA","United States","USA",.9491425
+2005,"United States","USA","Venezuela, Bolivarian Republic of","VEN",.0009604
